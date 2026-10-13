@@ -1,0 +1,86 @@
+[
+  {
+    "animal": "rhino",
+    "source": "3d_model_assets\\assets\\models\\low-poly-rhinoce_f3180872-607c-44ff-b66e-ae19c183a183\\low-poly-rhinoceros_908bcfe2-0c47-43fa-ba70-b84582a4571c.blend",
+    "bones": 6,
+    "clips": [
+      "idle",
+      "run",
+      "ability",
+      "celebrate"
+    ],
+    "vertices": 1249
+  },
+  {
+    "animal": "owl",
+    "source": "3d_model_assets\\assets\\models\\low-poly-owl_c309e923-b41c-414d-8985-490bfdf39e12\\low-poly-owl_9937b74e-387e-4248-b8eb-f812e41da919.blend",
+    "bones": 4,
+    "clips": [
+      "idle",
+      "run",
+      "ability",
+      "celebrate"
+    ],
+    "vertices": 1451
+  },
+  {
+    "animal": "frog",
+    "source": "3d_model_assets\\assets\\models\\low-poly-frog_9137f962-7120-439b-bd23-66f2f2b85f0b\\low-poly-frog_5d11dae7-fe8a-4342-be36-e8ca372172c1.blend",
+    "bones": 6,
+    "clips": [
+      "idle",
+      "run",
+      "ability",
+      "celebrate"
+    ],
+    "vertices": 1939
+  },
+  {
+    "animal": "otter",
+    "source": "3d_model_assets\\assets\\models\\low-poly-otter_9923bbeb-5c48-42bb-b2e7-5a290012d875\\low-poly-otter_54a86e34-6975-462a-ba4f-cdc34cb88f99.blend",
+    "bones": 6,
+    "clips": [
+      "idle",
+      "run",
+      "ability",
+      "celebrate"
+    ],
+    "vertices": 2164
+  },
+  {
+    "animal": "elephant",
+    "source": "3d_model_assets\\assets\\models\\african-elephant_ba7f1b66-218e-4b28-8e8c-2cbf68512f04\\african-elephant-character-low-poly_2K_ff8635e6-1c58-49ae-b3cd-e608613f8b46.blend",
+    "bones": 6,
+    "clips": [
+      "idle",
+      "run",
+      "ability",
+      "celebrate"
+    ],
+    "vertices": 1143
+  },
+  {
+    "animal": "turtle",
+    "source": "3d_model_assets\\assets\\models\\low-poly-sea-tur_4d33c07a-38e5-4b88-8a61-a7aa4025999f\\low-poly-sea-turtle_484885cf-27af-4150-9ae7-e6ddda1a7847.blend",
+    "bones": 6,
+    "clips": [
+      "idle",
+      "run",
+      "ability",
+      "celebrate"
+    ],
+    "vertices": 2021
+  },
+  {
+    "animal": "monkey",
+    "source": "tools\\original_monkey.blend",
+    "bones": 8,
+    "clips": [
+      "idle",
+      "run",
+      "ability",
+      "celebrate"
+    ],
+    "vertices": 2322
+  }
+]

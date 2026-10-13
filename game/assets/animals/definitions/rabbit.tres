@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/rabbit.glb" id="1_td74o"]
+[ext_resource type="Texture2D" path="res://assets/animals/rabbit.png" id="2_kr3yu"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_hod7c"]
+
+[resource]
+script = ExtResource("3_hod7c")
+id = "rabbit"
+title = "Rabbit"
+ability = "jump"
+symbol = "∩"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_td74o")
+portrait = ExtResource("2_kr3yu")
+family = "hopper"
+cycle_seconds = 0.6071428571428571
+model_height = 1.18694
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "trot", "jump", "land", "bound", "sprint", "climb", "eat", "sit", "slow_hop", "fast_bound", "dig", "alert")

@@ -1,0 +1,40 @@
+{
+  "id": "mandrill",
+  "title": "Mandrill",
+  "source": "Mandrill",
+  "family": "primate",
+  "ability": "climb",
+  "period": 0.8210526315789475,
+  "height": 2.1999998092651367,
+  "size": 2.2,
+  "model_scale": 1.15,
+  "clips": [
+    "idle",
+    "walk",
+    "run",
+    "turn_left",
+    "turn_right",
+    "stop",
+    "interact",
+    "hit_reaction",
+    "ability",
+    "celebrate",
+    "trot",
+    "jump",
+    "land",
+    "climb",
+    "forage",
+    "sit",
+    "threat",
+    "bite"
+  ],
+  "textures": [
+    "mandrill_0_albedo.png",
+    "mandrill_0_normal.png",
+    "mandrill_0_ao.png",
+    "mandrill_0_roughness.png"
+  ],
+  "bones": 19,
+  "vertices": 683,
+  "forward": "-Y Blender / -Z Godot after model rotation PI"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "walrus",
+  "title": "Walrus",
+  "source": "Walrus",
+  "family": "walrus",
+  "ability": "swim",
+  "period": 2.196969696969697,
+  "height": 1.3062182664871216,
+  "size": 3.0,
+  "model_scale": 1.15,
+  "clips": [
+    "idle",
+    "walk",
+    "run",
+    "turn_left",
+    "turn_right",
+    "stop",
+    "interact",
+    "hit_reaction",
+    "ability",
+    "celebrate",
+    "trot",
+    "haul_out",
+    "swim",
+    "dive",
+    "surface",
+    "flipper_slap",
+    "land_walk",
+    "turn",
+    "tusk_push"
+  ],
+  "textures": [
+    "walrus_0_albedo.png",
+    "walrus_0_normal.png",
+    "walrus_0_ao.png",
+    "walrus_0_roughness.png"
+  ],
+  "bones": 23,
+  "vertices": 603,
+  "forward": "-Y Blender / -Z Godot after model rotation PI"
+}

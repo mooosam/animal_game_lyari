@@ -1,0 +1,43 @@
+{
+  "id": "hippo",
+  "title": "Hippopotamus",
+  "source": "Hippo",
+  "family": "heavy",
+  "ability": "swim",
+  "period": 1.8965517241379313,
+  "height": 1.554925799369812,
+  "size": 3.0,
+  "model_scale": 1.15,
+  "clips": [
+    "idle",
+    "walk",
+    "run",
+    "turn_left",
+    "turn_right",
+    "stop",
+    "interact",
+    "hit_reaction",
+    "ability",
+    "celebrate",
+    "trot",
+    "charge",
+    "head_swing",
+    "eat",
+    "swim",
+    "dive",
+    "surface",
+    "underwater_walk_bound",
+    "swim_glide",
+    "bite",
+    "yawn"
+  ],
+  "textures": [
+    "hippo_0_albedo.png",
+    "hippo_0_normal.png",
+    "hippo_0_ao.png",
+    "hippo_0_roughness.png"
+  ],
+  "bones": 23,
+  "vertices": 583,
+  "forward": "-Y Blender / -Z Godot after model rotation PI"
+}

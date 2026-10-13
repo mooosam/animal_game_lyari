@@ -1,0 +1,21 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/owl.glb" id="1_kul2s"]
+[ext_resource type="Texture2D" path="res://assets/animals/owl.png" id="2_jul02"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_g747w"]
+
+[resource]
+script = ExtResource("3_g747w")
+id = "owl"
+title = "Snowy Owl"
+ability = "fly"
+symbol = "↑"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_kul2s")
+portrait = ExtResource("2_jul02")
+run_multiplier = 1.03
+family = "bird"
+model_scale = 1.5
+cycle_seconds = 0.85
+model_height = 0.4510515
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "perch", "takeoff", "flap", "glide", "bank_left", "bank_right", "dive", "land", "perch_idle", "hop", "flap_flight", "talon_attack")

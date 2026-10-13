@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/walrus.glb" id="1_uwn21"]
+[ext_resource type="Texture2D" path="res://assets/animals/walrus.png" id="2_u6kvv"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_c83qk"]
+
+[resource]
+script = ExtResource("3_c83qk")
+id = "walrus"
+title = "Walrus"
+ability = "swim"
+symbol = "≈"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_uwn21")
+portrait = ExtResource("2_u6kvv")
+family = "walrus"
+cycle_seconds = 2.196969696969697
+model_height = 1.3062183
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "trot", "haul_out", "swim", "dive", "surface", "flipper_slap", "land_walk", "turn", "tusk_push")

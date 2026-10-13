@@ -1,0 +1,7891 @@
+{
+  "collections": [
+    {
+      "name": "Animals",
+      "objects": [
+        "base",
+        "Tarantula",
+        "base.001",
+        "EmperorScorpion",
+        "base.002",
+        "DeathStalkerScorpion",
+        "base.003",
+        "BlackWidow",
+        "Arachnids",
+        "base.004",
+        "FireAnt",
+        "base.005",
+        "GoldenStagBeetle",
+        "base.006",
+        "SpruceBeetle",
+        "base.007",
+        "AlderLeafBeetle",
+        "base.008",
+        "CowboyBeetle",
+        "base.009",
+        "StagBeetle",
+        "base.010",
+        "Roach",
+        "alt1",
+        "alt2",
+        "Ladybug",
+        "transp",
+        "base.011",
+        "Grasshopper",
+        "eyes",
+        "base.012",
+        "Cricket",
+        "base.013",
+        "BlackAnt",
+        "base.014",
+        "PrayingMantis",
+        "base.015",
+        "Caterpillar",
+        "base.016",
+        "Centipede",
+        "base.017",
+        "Millipede",
+        "base.018",
+        "Earthworm",
+        "base.019",
+        "Snail",
+        "Insects",
+        "Amphibians",
+        "alt574",
+        "alt575",
+        "BlackBear",
+        "alt576",
+        "alt577",
+        "BrownBear",
+        "alt578",
+        "alt579",
+        "BrownCow",
+        "alt580",
+        "alt581",
+        "WhiteCow",
+        "alt582",
+        "alt583",
+        "HolsteinCow",
+        "base.020",
+        "ChestnutHorse",
+        "base.021",
+        "GrayHorse",
+        "base.022",
+        "PalominoHorse",
+        "base.023",
+        "BlackHorse",
+        "base.024",
+        "Donkey",
+        "alt584",
+        "alt585",
+        "Deer",
+        "base.025",
+        "Pig",
+        "base.026",
+        "Hippo",
+        "eyes.001",
+        "Otter",
+        "eyes.002",
+        "Wildebeest",
+        "eyes.003",
+        "Sloth",
+        "alt586",
+        "alt587",
+        "Gorilla",
+        "alt588",
+        "alt589",
+        "GraySquirrel",
+        "alt590",
+        "alt591",
+        "BlackSquirrel",
+        "alt592",
+        "alt593",
+        "RedSquirrel",
+        "base.027",
+        "GrayWolf",
+        "base.028",
+        "SableAntelope",
+        "alt594",
+        "alt595",
+        "Orangutan",
+        "base.029",
+        "Oryx",
+        "base.030",
+        "Panda",
+        "base.031",
+        "RedPanda",
+        "base.032",
+        "Mandrill",
+        "base.033",
+        "KoalaBear",
+        "base.034",
+        "Hedgehog",
+        "base.035",
+        "Rabbit",
+        "base.036",
+        "Hare",
+        "base.037",
+        "Gemsbok",
+        "base.038",
+        "Chimpanzee",
+        "alt596",
+        "alt597",
+        "Blackbuck",
+        "base.039",
+        "BlackPanther",
+        "alt598",
+        "alt599",
+        "Moose",
+        "base.040",
+        "Raccoon",
+        "base.041",
+        "Skunk",
+        "base.042",
+        "Boar",
+        "base.043",
+        "Alpaca",
+        "alt600",
+        "alt601",
+        "Llama",
+        "eyes.004",
+        "Cat",
+        "base.044",
+        "Opossum",
+        "base.045",
+        "Poodle",
+        "base.046",
+        "RedFox",
+        "base.047",
+        "Dobermann",
+        "base.048",
+        "Greyhound",
+        "base.049",
+        "LabradorPuppy",
+        "alt602",
+        "alt603",
+        "Bel",
+        "base.050",
+        "Aardvark",
+        "base.051",
+        "Armadillo",
+        "base.052",
+        "Anteater",
+        "base.053",
+        "AddraGazelle",
+        "base.054",
+        "Bobcat",
+        "base.055",
+        "Cheetah",
+        "base.056",
+        "Camel",
+        "base.057",
+        "Coyote",
+        "base.058",
+        "Elephant",
+        "base.059",
+        "Giraffe",
+        "base.060",
+        "Hyena",
+        "base.061",
+        "Ibex",
+        "base.062",
+        "KitFox",
+        "alt604",
+        "alt605",
+        "Lion",
+        "base.063",
+        "Okapi",
+        "base.064",
+        "Pronghorn",
+        "base.065",
+        "Rhino",
+        "base.066",
+        "Tiger",
+        "base.067",
+        "WhiteTiger",
+        "base.068",
+        "Muskox",
+        "base.069",
+        "WildHorse",
+        "base.070",
+        "Zebra",
+        "base.071",
+        "Rat",
+        "base.072",
+        "Mouse",
+        "base.073",
+        "Goat",
+        "base.074",
+        "Sheep",
+        "alt606",
+        "alt607",
+        "BighornSheep",
+        "base.075",
+        "Bison",
+        "base.076",
+        "Marmot",
+        "base.077",
+        "MountainLion",
+        "alt608",
+        "alt609",
+        "RockyMountainElk",
+        "base.078",
+        "WoolyMammoth",
+        "base.079",
+        "Walrus",
+        "base.080",
+        "BabySeal",
+        "alt610",
+        "alt611",
+        "Caribou",
+        "base.081",
+        "HarbourSeal",
+        "base.082",
+        "Megaloceros",
+        "base.083",
+        "ArcticWolf",
+        "base.084",
+        "ArcticHare",
+        "base.085",
+        "ArcticFox",
+        "base.086",
+        "SnowLeopard",
+        "base.087",
+        "PolarBear",
+        "Animals",
+        "base.088",
+        "Crane",
+        "alt612",
+        "alt613",
+        "Chicken",
+        "DblSided",
+        "base.089",
+        "alt1.001",
+        "base.090",
+        "alt2.001",
+        "Peacock",
+        "base.091",
+        "Turkey",
+        "base.092",
+        "Ostrich",
+        "base.093",
+        "PekinDuck",
+        "alt614",
+        "alt615",
+        "WildDuck",
+        "base.094",
+        "Swan",
+        "base.095",
+        "GroundedCrow",
+        "base.096",
+        "GroundedPigeon",
+        "base.097",
+        "BabyPenguin",
+        "base.098",
+        "Penguin",
+        "base.099",
+        "Ptarmigan",
+        "BirdsUpright",
+        "base.100",
+        "Condor",
+        "base.101",
+        "Dove",
+        "base.102",
+        "Eagle",
+        "base.103",
+        "Swallow",
+        "base.104",
+        "ArcticTern",
+        "base.105",
+        "Falcon",
+        "base.106",
+        "Goose",
+        "base.107",
+        "Gull",
+        "base.108",
+        "Hummingbird",
+        "base.109",
+        "Mallard",
+        "base.110",
+        "VampireBat",
+        "base.111",
+        "Crow",
+        "base.112",
+        "Pigeon",
+        "base.113",
+        "Grackle",
+        "base.114",
+        "Vulture",
+        "base.115",
+        "SnowyOwl",
+        "Birds",
+        "base.116",
+        "Alligator",
+        "base.117",
+        "Crocodile",
+        "base.118",
+        "Gecko",
+        "base.119",
+        "Chameleon",
+        "base.120",
+        "CoralSnake",
+        "base.121",
+        "Rattlesnake",
+        "base.122",
+        "KomodoDragon",
+        "base.123",
+        "Tortoise",
+        "base.124",
+        "RockIguana",
+        "base.125",
+        "GreenIguana",
+        "Reptiles",
+        "alt1.002",
+        "alt339",
+        "alt340",
+        "alt341",
+        "alt342",
+        "alt343",
+        "alt344",
+        "alt345",
+        "alt346",
+        "alt347",
+        "alt348",
+        "alt349",
+        "alt350",
+        "alt351",
+        "alt352",
+        "alt353",
+        "alt354",
+        "alt355",
+        "alt356",
+        "alt358",
+        "alt359",
+        "Skeleton",
+        "Turd",
+        "alt1.003",
+        "alt2.002",
+        "BlackFeather",
+        "alt1.004",
+        "alt2.003",
+        "WhiteFeather",
+        "alt5",
+        "alt4",
+        "alt3",
+        "alt2.004",
+        "alt1.005",
+        "alt6",
+        "Tooth",
+        "BrokenBrain",
+        "RedBloodCell",
+        "transp.001",
+        "base.126",
+        "alt1.006",
+        "transp.002",
+        "base.127",
+        "alt2.005",
+        "transp.003",
+        "base.128",
+        "alt3.001",
+        "EyeBall",
+        "AnimalParts",
+        "base.129",
+        "Bee",
+        "base.130",
+        "BlueMorphoButterfly",
+        "base.131",
+        "Dragonfly",
+        "base.132",
+        "MonarchButterfly",
+        "base.133",
+        "Mosquito",
+        "base.134",
+        "MockerSwallowtailButterfly",
+        "base.135",
+        "Moth",
+        "base.136",
+        "Cicada",
+        "base.137",
+        "DrosophilaMelanogaster",
+        "transp.004",
+        "DblSided.001",
+        "light.001",
+        "light",
+        "base.138",
+        "Firefly",
+        "base.139",
+        "BlueFly",
+        "FlyingInsects",
+        "base.140",
+        "Batto",
+        "base.141",
+        "Curow",
+        "alt572",
+        "alt573",
+        "MidnightDeer",
+        "base.142",
+        "eyes.005",
+        "Entraine",
+        "eyes.006",
+        "base.143",
+        "Unicorn",
+        "Imaginary",
+        "ANIMALS",
+        "GreenFrog",
+        "RedEyedTreeFrog",
+        "Toad"
+      ]
+    }
+  ],
+  "objects": [
+    {
+      "name": "Aardvark",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "AddraGazelle",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "AlderLeafBeetle",
+      "type": "EMPTY",
+      "parent": "Insects",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Alligator",
+      "type": "EMPTY",
+      "parent": "Reptiles",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Alpaca",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "alt1",
+      "type": "MESH",
+      "parent": "Ladybug",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.8329097032546997,
+        0.390653133392334,
+        0.8749076724052429
+      ],
+      "vertices": 563,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt1.001",
+      "type": "EMPTY",
+      "parent": "Peacock",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "alt1.002",
+      "type": "MESH",
+      "parent": "Skeleton",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.17216059565544128,
+        0.20002563297748566,
+        0.2471482753753662
+      ],
+      "vertices": 2178,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt1.003",
+      "type": "MESH",
+      "parent": "BlackFeather",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.5047778487205505,
+        0.24544313549995422,
+        2.0316162109375
+      ],
+      "vertices": 531,
+      "materials": [
+        "Mat_DblSided"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt1.004",
+      "type": "MESH",
+      "parent": "WhiteFeather",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.6031402349472046,
+        0.2953367233276367,
+        1.6461089849472046
+      ],
+      "vertices": 321,
+      "materials": [
+        "Mat_DblSided"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt1.005",
+      "type": "MESH",
+      "parent": "Tooth",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.3955356776714325,
+        0.27478134632110596,
+        0.5113731026649475
+      ],
+      "vertices": 232,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt1.006",
+      "type": "EMPTY",
+      "parent": "EyeBall",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "alt2",
+      "type": "MESH",
+      "parent": "Ladybug",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.8329097032546997,
+        0.390653133392334,
+        0.8749076724052429
+      ],
+      "vertices": 563,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt2.001",
+      "type": "EMPTY",
+      "parent": "Peacock",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "alt2.002",
+      "type": "MESH",
+      "parent": "BlackFeather",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.4726031422615051,
+        0.31465551257133484,
+        2.0316162109375
+      ],
+      "vertices": 506,
+      "materials": [
+        "Mat_DblSided"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt2.003",
+      "type": "MESH",
+      "parent": "WhiteFeather",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.30001646280288696,
+        0.16213610768318176,
+        0.7919665575027466
+      ],
+      "vertices": 314,
+      "materials": [
+        "Mat_DblSided"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt2.004",
+      "type": "MESH",
+      "parent": "Tooth",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.10640941560268402,
+        0.11831264942884445,
+        0.3539382219314575
+      ],
+      "vertices": 69,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt2.005",
+      "type": "EMPTY",
+      "parent": "EyeBall",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "alt3",
+      "type": "MESH",
+      "parent": "Tooth",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.2770773768424988,
+        0.29759135842323303,
+        0.837574303150177
+      ],
+      "vertices": 78,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt3.001",
+      "type": "EMPTY",
+      "parent": "EyeBall",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "alt339",
+      "type": "MESH",
+      "parent": "Skeleton",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.16764357686042786,
+        0.05167625471949577,
+        0.330483078956604
+      ],
+      "vertices": 133,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt340",
+      "type": "MESH",
+      "parent": "Skeleton",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.12659545242786407,
+        0.19271709024906158,
+        0.23073416948318481
+      ],
+      "vertices": 485,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt341",
+      "type": "MESH",
+      "parent": "Skeleton",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.09448689967393875,
+        0.03846849501132965,
+        0.2658861577510834
+      ],
+      "vertices": 109,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt342",
+      "type": "MESH",
+      "parent": "Skeleton",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.11516452580690384,
+        0.03884584456682205,
+        0.26451101899147034
+      ],
+      "vertices": 120,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt343",
+      "type": "MESH",
+      "parent": "Skeleton",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.16764357686042786,
+        0.051172979176044464,
+        0.3307090699672699
+      ],
+      "vertices": 133,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt344",
+      "type": "MESH",
+      "parent": "Skeleton",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.1463872492313385,
+        0.19347621500492096,
+        0.22675475478172302
+      ],
+      "vertices": 485,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt345",
+      "type": "MESH",
+      "parent": "Skeleton",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.11826792359352112,
+        0.09638660401105881,
+        0.29869896173477173
+      ],
+      "vertices": 392,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt346",
+      "type": "MESH",
+      "parent": "Skeleton",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.08776184171438217,
+        0.09071114659309387,
+        0.4721890985965729
+      ],
+      "vertices": 253,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt347",
+      "type": "MESH",
+      "parent": "Skeleton",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.11875060945749283,
+        0.09027385711669922,
+        0.48533275723457336
+      ],
+      "vertices": 257,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt348",
+      "type": "MESH",
+      "parent": "Skeleton",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.11826801300048828,
+        0.09638658910989761,
+        0.29869896173477173
+      ],
+      "vertices": 392,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt349",
+      "type": "MESH",
+      "parent": "Skeleton",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.09051218628883362,
+        0.08103757351636887,
+        0.4528343081474304
+      ],
+      "vertices": 166,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt350",
+      "type": "MESH",
+      "parent": "Skeleton",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.04759824648499489,
+        0.03593279793858528,
+        0.43751704692840576
+      ],
+      "vertices": 87,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt351",
+      "type": "MESH",
+      "parent": "Skeleton",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.1314561814069748,
+        0.07336040586233139,
+        0.4852370321750641
+      ],
+      "vertices": 257,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt352",
+      "type": "MESH",
+      "parent": "Skeleton",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.14600998163223267,
+        0.0384756475687027,
+        0.21921835839748383
+      ],
+      "vertices": 328,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt353",
+      "type": "MESH",
+      "parent": "Skeleton",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.08800414949655533,
+        0.14062446355819702,
+        0.6354978084564209
+      ],
+      "vertices": 1130,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt354",
+      "type": "MESH",
+      "parent": "Skeleton",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.3222639262676239,
+        0.23705218732357025,
+        0.3894786834716797
+      ],
+      "vertices": 1360,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt355",
+      "type": "MESH",
+      "parent": "Skeleton",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.29735472798347473,
+        0.16199292242527008,
+        0.24112503230571747
+      ],
+      "vertices": 1979,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt356",
+      "type": "MESH",
+      "parent": "Skeleton",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.17216059565544128,
+        0.19177810847759247,
+        0.2451922595500946
+      ],
+      "vertices": 2178,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt358",
+      "type": "MESH",
+      "parent": "Skeleton",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.17216059565544128,
+        0.1814257800579071,
+        0.21814990043640137
+      ],
+      "vertices": 1816,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt359",
+      "type": "MESH",
+      "parent": "Skeleton",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.13198097050189972,
+        0.07897109538316727,
+        0.11408424377441406
+      ],
+      "vertices": 362,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt4",
+      "type": "MESH",
+      "parent": "Tooth",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.24936175346374512,
+        0.07847701013088226,
+        0.41565680503845215
+      ],
+      "vertices": 122,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt5",
+      "type": "MESH",
+      "parent": "Tooth",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.14372117817401886,
+        0.08627190440893173,
+        0.41030436754226685
+      ],
+      "vertices": 155,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt572",
+      "type": "MESH",
+      "parent": "MidnightDeer",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.6959550976753235,
+        2.2062089443206787,
+        1.843450903892517
+      ],
+      "vertices": 771,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt573",
+      "type": "MESH",
+      "parent": "MidnightDeer",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.3168550133705139,
+        1.5968940258026123,
+        1.656598448753357
+      ],
+      "vertices": 548,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt574",
+      "type": "MESH",
+      "parent": "BlackBear",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.8159223198890686,
+        2.079929828643799,
+        0.7802371978759766
+      ],
+      "vertices": 487,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt575",
+      "type": "MESH",
+      "parent": "BlackBear",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.6805154085159302,
+        1.1094939708709717,
+        1.6996582746505737
+      ],
+      "vertices": 514,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt576",
+      "type": "MESH",
+      "parent": "BrownBear",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.9692931771278381,
+        2.4708991050720215,
+        0.9269001483917236
+      ],
+      "vertices": 487,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt577",
+      "type": "MESH",
+      "parent": "BrownBear",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.8084335327148438,
+        1.3180482387542725,
+        2.0191469192504883
+      ],
+      "vertices": 514,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt578",
+      "type": "MESH",
+      "parent": "BrownCow",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.6661840677261353,
+        1.3001679182052612,
+        2.2561049461364746
+      ],
+      "vertices": 631,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt579",
+      "type": "MESH",
+      "parent": "BrownCow",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.6661840677261353,
+        1.3129898309707642,
+        2.2561049461364746
+      ],
+      "vertices": 597,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt580",
+      "type": "MESH",
+      "parent": "WhiteCow",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.6661840677261353,
+        1.3129898309707642,
+        2.2561049461364746
+      ],
+      "vertices": 597,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt581",
+      "type": "MESH",
+      "parent": "WhiteCow",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.6661840677261353,
+        1.3001679182052612,
+        2.2561049461364746
+      ],
+      "vertices": 631,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt582",
+      "type": "MESH",
+      "parent": "HolsteinCow",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.6661840677261353,
+        1.3129898309707642,
+        2.2561049461364746
+      ],
+      "vertices": 627,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt583",
+      "type": "MESH",
+      "parent": "HolsteinCow",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.6661840677261353,
+        1.3001679182052612,
+        2.2561049461364746
+      ],
+      "vertices": 631,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt584",
+      "type": "MESH",
+      "parent": "Deer",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.6959550976753235,
+        2.2062089443206787,
+        1.843450903892517
+      ],
+      "vertices": 771,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt585",
+      "type": "MESH",
+      "parent": "Deer",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.3168550133705139,
+        1.5968940258026123,
+        1.656598448753357
+      ],
+      "vertices": 548,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt586",
+      "type": "MESH",
+      "parent": "Gorilla",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.9660627245903015,
+        1.6775814294815063,
+        1.6568728685379028
+      ],
+      "vertices": 683,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt587",
+      "type": "MESH",
+      "parent": "Gorilla",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.7691734433174133,
+        1.4267773628234863,
+        1.3781803846359253
+      ],
+      "vertices": 683,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt588",
+      "type": "MESH",
+      "parent": "GraySquirrel",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.10452430695295334,
+        0.27819517254829407,
+        0.3156113922595978
+      ],
+      "vertices": 525,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt589",
+      "type": "MESH",
+      "parent": "GraySquirrel",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.10452483594417572,
+        0.17716579139232635,
+        0.2936425805091858
+      ],
+      "vertices": 534,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt590",
+      "type": "MESH",
+      "parent": "BlackSquirrel",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.10452430695295334,
+        0.27819517254829407,
+        0.3156113922595978
+      ],
+      "vertices": 525,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt591",
+      "type": "MESH",
+      "parent": "BlackSquirrel",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.10452444106340408,
+        0.17716564238071442,
+        0.29364222288131714
+      ],
+      "vertices": 534,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt592",
+      "type": "MESH",
+      "parent": "RedSquirrel",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.10452430695295334,
+        0.27819517254829407,
+        0.3156113922595978
+      ],
+      "vertices": 525,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt593",
+      "type": "MESH",
+      "parent": "RedSquirrel",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.10452444106340408,
+        0.17716564238071442,
+        0.29364222288131714
+      ],
+      "vertices": 534,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt594",
+      "type": "MESH",
+      "parent": "Orangutan",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.6811804175376892,
+        1.01083242893219,
+        1.0995539426803589
+      ],
+      "vertices": 662,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt595",
+      "type": "MESH",
+      "parent": "Orangutan",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.7784069776535034,
+        1.1431628465652466,
+        1.2564960718154907
+      ],
+      "vertices": 680,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt596",
+      "type": "MESH",
+      "parent": "Blackbuck",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.4958767294883728,
+        1.8237545490264893,
+        1.570658564567566
+      ],
+      "vertices": 863,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt597",
+      "type": "MESH",
+      "parent": "Blackbuck",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.4958767294883728,
+        1.6139583587646484,
+        1.570658564567566
+      ],
+      "vertices": 681,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt598",
+      "type": "MESH",
+      "parent": "Moose",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.5090181827545166,
+        2.4327495098114014,
+        2.53909969329834
+      ],
+      "vertices": 597,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt599",
+      "type": "MESH",
+      "parent": "Moose",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.4857567548751831,
+        1.8779559135437012,
+        2.255234956741333
+      ],
+      "vertices": 547,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt6",
+      "type": "MESH",
+      "parent": "Tooth",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.3861704468727112,
+        0.35640183091163635,
+        0.5786967277526855
+      ],
+      "vertices": 402,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt600",
+      "type": "MESH",
+      "parent": "Llama",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.5676391124725342,
+        1.9680814743041992,
+        1.5840479135513306
+      ],
+      "vertices": 666,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt601",
+      "type": "MESH",
+      "parent": "Llama",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.5676391124725342,
+        1.9680814743041992,
+        1.5840479135513306
+      ],
+      "vertices": 666,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt602",
+      "type": "MESH",
+      "parent": "Bel",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.15119384229183197,
+        0.4379027485847473,
+        0.6418885588645935
+      ],
+      "vertices": 925,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt603",
+      "type": "MESH",
+      "parent": "Bel",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.15119384229183197,
+        0.529740571975708,
+        0.6536543369293213
+      ],
+      "vertices": 925,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt604",
+      "type": "MESH",
+      "parent": "Lion",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.6699135303497314,
+        1.5585731267929077,
+        2.4003825187683105
+      ],
+      "vertices": 662,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt605",
+      "type": "MESH",
+      "parent": "Lion",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.5703309774398804,
+        1.3288967609405518,
+        2.2249526977539062
+      ],
+      "vertices": 642,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt606",
+      "type": "MESH",
+      "parent": "BighornSheep",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.5066344738006592,
+        1.340438961982727,
+        1.4202804565429688
+      ],
+      "vertices": 707,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt607",
+      "type": "MESH",
+      "parent": "BighornSheep",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.3438267707824707,
+        1.3569910526275635,
+        1.3156136274337769
+      ],
+      "vertices": 605,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt608",
+      "type": "MESH",
+      "parent": "RockyMountainElk",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.6412209272384644,
+        2.29594087600708,
+        1.91536545753479
+      ],
+      "vertices": 829,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt609",
+      "type": "MESH",
+      "parent": "RockyMountainElk",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.5481774806976318,
+        1.52053964138031,
+        1.8339126110076904
+      ],
+      "vertices": 645,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt610",
+      "type": "MESH",
+      "parent": "Caribou",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.0197045803070068,
+        2.6241040229797363,
+        2.2582783699035645
+      ],
+      "vertices": 823,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt611",
+      "type": "MESH",
+      "parent": "Caribou",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.7246246933937073,
+        2.208077907562256,
+        2.2113850116729736
+      ],
+      "vertices": 728,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt612",
+      "type": "MESH",
+      "parent": "Chicken",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.2997226119041443,
+        0.6220911145210266,
+        0.6558442711830139
+      ],
+      "vertices": 571,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt613",
+      "type": "MESH",
+      "parent": "Chicken",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.25162047147750854,
+        0.5394111275672913,
+        0.4883171319961548
+      ],
+      "vertices": 581,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt614",
+      "type": "MESH",
+      "parent": "WildDuck",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.2667624354362488,
+        0.6293320059776306,
+        0.6902674436569214
+      ],
+      "vertices": 487,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "alt615",
+      "type": "MESH",
+      "parent": "WildDuck",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.2667624354362488,
+        0.6293320059776306,
+        0.6902674436569214
+      ],
+      "vertices": 486,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Amphibians",
+      "type": "EMPTY",
+      "parent": "ANIMALS",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "AnimalParts",
+      "type": "EMPTY",
+      "parent": "ANIMALS",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Animals",
+      "type": "EMPTY",
+      "parent": "ANIMALS",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "ANIMALS",
+      "type": "EMPTY",
+      "parent": null,
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Anteater",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Arachnids",
+      "type": "EMPTY",
+      "parent": "ANIMALS",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "ArcticFox",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "ArcticHare",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "ArcticTern",
+      "type": "EMPTY",
+      "parent": "Birds",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "ArcticWolf",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Armadillo",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "BabyPenguin",
+      "type": "EMPTY",
+      "parent": "BirdsUpright",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "BabySeal",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "base",
+      "type": "MESH",
+      "parent": "Tarantula",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.7533495426177979,
+        0.5018624663352966,
+        1.8354696035385132
+      ],
+      "vertices": 703,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.001",
+      "type": "MESH",
+      "parent": "EmperorScorpion",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.178566813468933,
+        0.8403156995773315,
+        1.3536417484283447
+      ],
+      "vertices": 616,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.002",
+      "type": "MESH",
+      "parent": "DeathStalkerScorpion",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.6059368848800659,
+        0.43158218264579773,
+        0.7370640635490417
+      ],
+      "vertices": 520,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.003",
+      "type": "MESH",
+      "parent": "BlackWidow",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.296242356300354,
+        0.45215123891830444,
+        1.5705633163452148
+      ],
+      "vertices": 392,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.004",
+      "type": "MESH",
+      "parent": "FireAnt",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.4183956384658813,
+        0.601287841796875,
+        1.5688745975494385
+      ],
+      "vertices": 746,
+      "materials": [
+        "Mat_Standard",
+        "Default_Material"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.005",
+      "type": "MESH",
+      "parent": "GoldenStagBeetle",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.8897677659988403,
+        0.33942291140556335,
+        1.3952276706695557
+      ],
+      "vertices": 488,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.006",
+      "type": "MESH",
+      "parent": "SpruceBeetle",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.619256854057312,
+        0.31744131445884705,
+        0.8802779912948608
+      ],
+      "vertices": 421,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.007",
+      "type": "MESH",
+      "parent": "AlderLeafBeetle",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.4160658121109009,
+        0.48210597038269043,
+        1.8227688074111938
+      ],
+      "vertices": 569,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.008",
+      "type": "MESH",
+      "parent": "CowboyBeetle",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.8892556428909302,
+        0.5414205193519592,
+        1.9881858825683594
+      ],
+      "vertices": 493,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.009",
+      "type": "MESH",
+      "parent": "StagBeetle",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.6456655263900757,
+        0.5746884942054749,
+        2.8198814392089844
+      ],
+      "vertices": 452,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.010",
+      "type": "MESH",
+      "parent": "Roach",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.4693593978881836,
+        0.5303531289100647,
+        2.08231258392334
+      ],
+      "vertices": 567,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.011",
+      "type": "MESH",
+      "parent": "Grasshopper",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        4.1650390625,
+        2.25276780128479,
+        4.772941589355469
+      ],
+      "vertices": 457,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.012",
+      "type": "MESH",
+      "parent": "Cricket",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        3.7050042152404785,
+        1.5941663980484009,
+        5.691260814666748
+      ],
+      "vertices": 362,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.013",
+      "type": "MESH",
+      "parent": "BlackAnt",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.9966734051704407,
+        0.47767001390457153,
+        1.1928060054779053
+      ],
+      "vertices": 746,
+      "materials": [
+        "Mat_Standard",
+        "Default_Material"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.014",
+      "type": "MESH",
+      "parent": "PrayingMantis",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.5008866786956787,
+        0.3641059696674347,
+        0.7409829497337341
+      ],
+      "vertices": 505,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.015",
+      "type": "MESH",
+      "parent": "Caterpillar",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.2641622722148895,
+        0.3791670799255371,
+        1.2700848579406738
+      ],
+      "vertices": 616,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.016",
+      "type": "MESH",
+      "parent": "Centipede",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.5239064693450928,
+        0.16886205971240997,
+        2.7317118644714355
+      ],
+      "vertices": 2012,
+      "materials": [
+        "Mat_SwimTransp"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.017",
+      "type": "MESH",
+      "parent": "Millipede",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.2902334928512573,
+        0.25471174716949463,
+        4.18624210357666
+      ],
+      "vertices": 2214,
+      "materials": [
+        "Mat_Swim"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.018",
+      "type": "MESH",
+      "parent": "Earthworm",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.1529090404510498,
+        0.14288105070590973,
+        2.787318706512451
+      ],
+      "vertices": 306,
+      "materials": [
+        "Mat_Swim"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.019",
+      "type": "MESH",
+      "parent": "Snail",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.3357028067111969,
+        0.39300212264060974,
+        0.747166097164154
+      ],
+      "vertices": 213,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.020",
+      "type": "MESH",
+      "parent": "ChestnutHorse",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.5605289340019226,
+        1.9090770483016968,
+        2.1371593475341797
+      ],
+      "vertices": 614,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.021",
+      "type": "MESH",
+      "parent": "GrayHorse",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.5605289340019226,
+        1.9090770483016968,
+        2.1371593475341797
+      ],
+      "vertices": 616,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.022",
+      "type": "MESH",
+      "parent": "PalominoHorse",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.5605289340019226,
+        1.9090770483016968,
+        2.1371593475341797
+      ],
+      "vertices": 617,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.023",
+      "type": "MESH",
+      "parent": "BlackHorse",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.5605289340019226,
+        1.9090770483016968,
+        2.1371593475341797
+      ],
+      "vertices": 614,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.024",
+      "type": "MESH",
+      "parent": "Donkey",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.5110835433006287,
+        1.5302687883377075,
+        1.8107589483261108
+      ],
+      "vertices": 658,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.025",
+      "type": "MESH",
+      "parent": "Pig",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.5537109971046448,
+        0.8145105838775635,
+        1.4812545776367188
+      ],
+      "vertices": 557,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.026",
+      "type": "MESH",
+      "parent": "Hippo",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.9711734652519226,
+        1.5189660787582397,
+        2.9306209087371826
+      ],
+      "vertices": 583,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.027",
+      "type": "MESH",
+      "parent": "GrayWolf",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.35558539628982544,
+        0.939469575881958,
+        1.5415011644363403
+      ],
+      "vertices": 654,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.028",
+      "type": "MESH",
+      "parent": "SableAntelope",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.5188712477684021,
+        1.84182870388031,
+        1.7077125310897827
+      ],
+      "vertices": 776,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.029",
+      "type": "MESH",
+      "parent": "Oryx",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.5707497596740723,
+        1.7781771421432495,
+        1.7866625785827637
+      ],
+      "vertices": 830,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.030",
+      "type": "MESH",
+      "parent": "Panda",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.759790301322937,
+        1.0791531801223755,
+        1.8742281198501587
+      ],
+      "vertices": 629,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.031",
+      "type": "MESH",
+      "parent": "RedPanda",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.2697581946849823,
+        0.38536909222602844,
+        0.933449387550354
+      ],
+      "vertices": 698,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.032",
+      "type": "MESH",
+      "parent": "Mandrill",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.5421265959739685,
+        1.0912007093429565,
+        1.0857609510421753
+      ],
+      "vertices": 683,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.033",
+      "type": "MESH",
+      "parent": "KoalaBear",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.2663734257221222,
+        0.44064760208129883,
+        0.607028603553772
+      ],
+      "vertices": 717,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.034",
+      "type": "MESH",
+      "parent": "Hedgehog",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.1763235628604889,
+        0.19841724634170532,
+        0.4158537983894348
+      ],
+      "vertices": 544,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.035",
+      "type": "MESH",
+      "parent": "Rabbit",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.18460902571678162,
+        0.3179917335510254,
+        0.48223593831062317
+      ],
+      "vertices": 465,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.036",
+      "type": "MESH",
+      "parent": "Hare",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.17645831406116486,
+        0.3989727795124054,
+        0.39731886982917786
+      ],
+      "vertices": 479,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.037",
+      "type": "MESH",
+      "parent": "Gemsbok",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.5707497596740723,
+        1.8724792003631592,
+        1.7744054794311523
+      ],
+      "vertices": 778,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.038",
+      "type": "MESH",
+      "parent": "Chimpanzee",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.5464235544204712,
+        0.9203782677650452,
+        0.8976722359657288
+      ],
+      "vertices": 662,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.039",
+      "type": "MESH",
+      "parent": "BlackPanther",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.4830998182296753,
+        1.1609947681427002,
+        1.819510817527771
+      ],
+      "vertices": 709,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.040",
+      "type": "MESH",
+      "parent": "Raccoon",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.23002919554710388,
+        0.3408281207084656,
+        0.895868182182312
+      ],
+      "vertices": 597,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.041",
+      "type": "MESH",
+      "parent": "Skunk",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.21316665410995483,
+        0.28447359800338745,
+        0.9182431101799011
+      ],
+      "vertices": 532,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.042",
+      "type": "MESH",
+      "parent": "Boar",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.45088768005371094,
+        0.8372451066970825,
+        1.3677338361740112
+      ],
+      "vertices": 535,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.043",
+      "type": "MESH",
+      "parent": "Alpaca",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.5377826690673828,
+        1.6492905616760254,
+        1.4085917472839355
+      ],
+      "vertices": 656,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.044",
+      "type": "MESH",
+      "parent": "Opossum",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.23090706765651703,
+        0.328133225440979,
+        1.0688271522521973
+      ],
+      "vertices": 557,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.045",
+      "type": "MESH",
+      "parent": "Poodle",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.278323769569397,
+        0.8675856590270996,
+        0.8668354749679565
+      ],
+      "vertices": 685,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.046",
+      "type": "MESH",
+      "parent": "RedFox",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.25489214062690735,
+        0.7834575772285461,
+        1.165679931640625
+      ],
+      "vertices": 654,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.047",
+      "type": "MESH",
+      "parent": "Dobermann",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.2927400469779968,
+        1.0437804460525513,
+        1.4049826860427856
+      ],
+      "vertices": 545,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.048",
+      "type": "MESH",
+      "parent": "Greyhound",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.19675590097904205,
+        0.8677895665168762,
+        1.1174713373184204
+      ],
+      "vertices": 622,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.049",
+      "type": "MESH",
+      "parent": "LabradorPuppy",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.18394766747951508,
+        0.4855039417743683,
+        0.6434594392776489
+      ],
+      "vertices": 583,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.050",
+      "type": "MESH",
+      "parent": "Aardvark",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.4517275094985962,
+        0.6582977175712585,
+        1.4143725633621216
+      ],
+      "vertices": 641,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.051",
+      "type": "MESH",
+      "parent": "Armadillo",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.44801080226898193,
+        0.5380432605743408,
+        1.768862009048462
+      ],
+      "vertices": 658,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.052",
+      "type": "MESH",
+      "parent": "Anteater",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.4003085494041443,
+        0.655393123626709,
+        1.8564794063568115
+      ],
+      "vertices": 614,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.053",
+      "type": "MESH",
+      "parent": "AddraGazelle",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.4948773980140686,
+        1.7896366119384766,
+        1.6780376434326172
+      ],
+      "vertices": 820,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.054",
+      "type": "MESH",
+      "parent": "Bobcat",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.3373771607875824,
+        0.6531203985214233,
+        1.0316479206085205
+      ],
+      "vertices": 655,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.055",
+      "type": "MESH",
+      "parent": "Cheetah",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.4510250687599182,
+        1.0959651470184326,
+        1.8213181495666504
+      ],
+      "vertices": 671,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.056",
+      "type": "MESH",
+      "parent": "Camel",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.942027747631073,
+        2.7453744411468506,
+        3.46885085105896
+      ],
+      "vertices": 688,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.057",
+      "type": "MESH",
+      "parent": "Coyote",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.39759328961372375,
+        1.068129062652588,
+        1.484074354171753
+      ],
+      "vertices": 654,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.058",
+      "type": "MESH",
+      "parent": "Elephant",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        2.19887638092041,
+        3.293333053588867,
+        4.727726459503174
+      ],
+      "vertices": 568,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.059",
+      "type": "MESH",
+      "parent": "Giraffe",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.0921690464019775,
+        4.991702556610107,
+        3.063466787338257
+      ],
+      "vertices": 621,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.060",
+      "type": "MESH",
+      "parent": "Hyena",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.43348515033721924,
+        1.1441596746444702,
+        1.4129537343978882
+      ],
+      "vertices": 636,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.061",
+      "type": "MESH",
+      "parent": "Ibex",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.7759694457054138,
+        1.8707468509674072,
+        2.0644471645355225
+      ],
+      "vertices": 835,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.062",
+      "type": "MESH",
+      "parent": "KitFox",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.2925052046775818,
+        0.8238362073898315,
+        1.3775053024291992
+      ],
+      "vertices": 654,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.063",
+      "type": "MESH",
+      "parent": "Okapi",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.45657187700271606,
+        1.5914260149002075,
+        1.828721284866333
+      ],
+      "vertices": 699,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.064",
+      "type": "MESH",
+      "parent": "Pronghorn",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.3610524535179138,
+        1.7379647493362427,
+        1.657184362411499
+      ],
+      "vertices": 586,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.065",
+      "type": "MESH",
+      "parent": "Rhino",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.0266859531402588,
+        1.976454257965088,
+        3.3590409755706787
+      ],
+      "vertices": 533,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.066",
+      "type": "MESH",
+      "parent": "Tiger",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.5835244059562683,
+        1.4059832096099854,
+        2.1776890754699707
+      ],
+      "vertices": 675,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.067",
+      "type": "MESH",
+      "parent": "WhiteTiger",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.5835244059562683,
+        1.4059832096099854,
+        2.17768931388855
+      ],
+      "vertices": 676,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.068",
+      "type": "MESH",
+      "parent": "Muskox",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.278609037399292,
+        2.1236369609832764,
+        3.3872225284576416
+      ],
+      "vertices": 693,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.069",
+      "type": "MESH",
+      "parent": "WildHorse",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.5680438280105591,
+        1.7884936332702637,
+        2.2601935863494873
+      ],
+      "vertices": 642,
+      "materials": [
+        "Mat_Standard",
+        "Default_Material"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.070",
+      "type": "MESH",
+      "parent": "Zebra",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.6894810199737549,
+        2.2069077491760254,
+        2.7228963375091553
+      ],
+      "vertices": 818,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.071",
+      "type": "MESH",
+      "parent": "Rat",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.3533081114292145,
+        0.3701494634151459,
+        1.424033761024475
+      ],
+      "vertices": 539,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.072",
+      "type": "MESH",
+      "parent": "Mouse",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.2170047014951706,
+        0.20125684142112732,
+        1.017275333404541
+      ],
+      "vertices": 556,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.073",
+      "type": "MESH",
+      "parent": "Goat",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.32747015357017517,
+        1.0201144218444824,
+        1.239086627960205
+      ],
+      "vertices": 586,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.074",
+      "type": "MESH",
+      "parent": "Sheep",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.4059213101863861,
+        0.9148035049438477,
+        1.2728968858718872
+      ],
+      "vertices": 516,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.075",
+      "type": "MESH",
+      "parent": "Bison",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.0538744926452637,
+        1.789549708366394,
+        2.524322748184204
+      ],
+      "vertices": 697,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.076",
+      "type": "MESH",
+      "parent": "Marmot",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.353668749332428,
+        0.4408978223800659,
+        1.1317189931869507
+      ],
+      "vertices": 703,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.077",
+      "type": "MESH",
+      "parent": "MountainLion",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.4632939398288727,
+        1.0088897943496704,
+        1.779445767402649
+      ],
+      "vertices": 681,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.078",
+      "type": "MESH",
+      "parent": "WoolyMammoth",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        2.3542819023132324,
+        4.114120960235596,
+        6.416643142700195
+      ],
+      "vertices": 625,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.079",
+      "type": "MESH",
+      "parent": "Walrus",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.4712445735931396,
+        0.9695344567298889,
+        2.226735830307007
+      ],
+      "vertices": 603,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.080",
+      "type": "MESH",
+      "parent": "BabySeal",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.9594267010688782,
+        0.3515535593032837,
+        1.3376734256744385
+      ],
+      "vertices": 492,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.081",
+      "type": "MESH",
+      "parent": "HarbourSeal",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.1356980800628662,
+        0.7133501768112183,
+        1.9206360578536987
+      ],
+      "vertices": 538,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.082",
+      "type": "MESH",
+      "parent": "Megaloceros",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        3.3199028968811035,
+        3.334678888320923,
+        2.905118703842163
+      ],
+      "vertices": 863,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.083",
+      "type": "MESH",
+      "parent": "ArcticWolf",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.35558539628982544,
+        0.939469575881958,
+        1.5415011644363403
+      ],
+      "vertices": 654,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.084",
+      "type": "MESH",
+      "parent": "ArcticHare",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.1745752990245819,
+        0.39471521973609924,
+        0.3930792212486267
+      ],
+      "vertices": 479,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.085",
+      "type": "MESH",
+      "parent": "ArcticFox",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.38384994864463806,
+        1.0597939491271973,
+        1.6126104593276978
+      ],
+      "vertices": 654,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.086",
+      "type": "MESH",
+      "parent": "SnowLeopard",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.5974380373954773,
+        1.4666061401367188,
+        3.034268379211426
+      ],
+      "vertices": 735,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.087",
+      "type": "MESH",
+      "parent": "PolarBear",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.9092822074890137,
+        1.486892819404602,
+        2.2379279136657715
+      ],
+      "vertices": 528,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.088",
+      "type": "MESH",
+      "parent": "Crane",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.34924957156181335,
+        1.3203577995300293,
+        1.4404025077819824
+      ],
+      "vertices": 426,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.089",
+      "type": "MESH",
+      "parent": "alt1.001",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.36088132858276367,
+        0.9381893873214722,
+        1.3033229112625122
+      ],
+      "vertices": 375,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.090",
+      "type": "MESH",
+      "parent": "alt2.001",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.36088132858276367,
+        0.9381893873214722,
+        1.3410804271697998
+      ],
+      "vertices": 375,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.091",
+      "type": "MESH",
+      "parent": "Turkey",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.6742172837257385,
+        0.7539278268814087,
+        0.6937379240989685
+      ],
+      "vertices": 591,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.092",
+      "type": "MESH",
+      "parent": "Ostrich",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.5220543742179871,
+        2.2292842864990234,
+        1.7583532333374023
+      ],
+      "vertices": 660,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.093",
+      "type": "MESH",
+      "parent": "PekinDuck",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.282039612531662,
+        0.6375147700309753,
+        0.7297982573509216
+      ],
+      "vertices": 502,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.094",
+      "type": "MESH",
+      "parent": "Swan",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.7692656517028809,
+        1.3164418935775757,
+        1.5685395002365112
+      ],
+      "vertices": 572,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.095",
+      "type": "MESH",
+      "parent": "GroundedCrow",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.09843242168426514,
+        0.16375210881233215,
+        0.32106783986091614
+      ],
+      "vertices": 386,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.096",
+      "type": "MESH",
+      "parent": "GroundedPigeon",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.09172647446393967,
+        0.21679313480854034,
+        0.20310324430465698
+      ],
+      "vertices": 608,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.097",
+      "type": "MESH",
+      "parent": "BabyPenguin",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.3784117102622986,
+        0.7313364148139954,
+        0.3289172947406769
+      ],
+      "vertices": 435,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.098",
+      "type": "MESH",
+      "parent": "Penguin",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.911619246006012,
+        1.3173218965530396,
+        0.5585147738456726
+      ],
+      "vertices": 418,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.099",
+      "type": "MESH",
+      "parent": "Ptarmigan",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.2468205988407135,
+        0.4422350525856018,
+        0.6111504435539246
+      ],
+      "vertices": 455,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.100",
+      "type": "MESH",
+      "parent": "Condor",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        2.578010082244873,
+        0.30813995003700256,
+        0.7999180555343628
+      ],
+      "vertices": 750,
+      "materials": [
+        "Mat_Flying"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.101",
+      "type": "MESH",
+      "parent": "Dove",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.1036113500595093,
+        0.1816476434469223,
+        0.5130974650382996
+      ],
+      "vertices": 734,
+      "materials": [
+        "Mat_Flying"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.102",
+      "type": "MESH",
+      "parent": "Eagle",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        2.7533059120178223,
+        0.44880640506744385,
+        0.934739887714386
+      ],
+      "vertices": 775,
+      "materials": [
+        "Mat_Flying"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.103",
+      "type": "MESH",
+      "parent": "Swallow",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.5159536004066467,
+        0.0806737095117569,
+        0.5368342995643616
+      ],
+      "vertices": 237,
+      "materials": [
+        "Mat_Flying"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.104",
+      "type": "MESH",
+      "parent": "ArcticTern",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.3014705181121826,
+        0.14482381939888,
+        0.6153849363327026
+      ],
+      "vertices": 277,
+      "materials": [
+        "Mat_Flying"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.105",
+      "type": "MESH",
+      "parent": "Falcon",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.5398156642913818,
+        0.1952216625213623,
+        0.5516891479492188
+      ],
+      "vertices": 772,
+      "materials": [
+        "Mat_Flying"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.106",
+      "type": "MESH",
+      "parent": "Goose",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.5055097341537476,
+        0.18495304882526398,
+        0.8566020131111145
+      ],
+      "vertices": 772,
+      "materials": [
+        "Mat_Flying"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.107",
+      "type": "MESH",
+      "parent": "Gull",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.5271334648132324,
+        0.171961709856987,
+        0.5979701280593872
+      ],
+      "vertices": 786,
+      "materials": [
+        "Mat_Flying"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.108",
+      "type": "MESH",
+      "parent": "Hummingbird",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.38494980335235596,
+        0.09546025842428207,
+        0.319050669670105
+      ],
+      "vertices": 420,
+      "materials": [
+        "Mat_Flying"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.109",
+      "type": "MESH",
+      "parent": "Mallard",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.8153481483459473,
+        0.3250512480735779,
+        0.8710796236991882
+      ],
+      "vertices": 754,
+      "materials": [
+        "Mat_Flying"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.110",
+      "type": "MESH",
+      "parent": "VampireBat",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.4921200275421143,
+        0.13649848103523254,
+        0.46248701214790344
+      ],
+      "vertices": 414,
+      "materials": [
+        "Mat_Flying"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.111",
+      "type": "MESH",
+      "parent": "Crow",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.1599444150924683,
+        0.2060033231973648,
+        0.5737578272819519
+      ],
+      "vertices": 746,
+      "materials": [
+        "Mat_Flying"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.112",
+      "type": "MESH",
+      "parent": "Pigeon",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.0579220056533813,
+        0.17599067091941833,
+        0.4918553829193115
+      ],
+      "vertices": 734,
+      "materials": [
+        "Mat_Flying"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.113",
+      "type": "MESH",
+      "parent": "Grackle",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.9076882600784302,
+        0.22606784105300903,
+        0.6808874607086182
+      ],
+      "vertices": 710,
+      "materials": [
+        "Mat_Flying"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.114",
+      "type": "MESH",
+      "parent": "Vulture",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        3.287431240081787,
+        0.32199859619140625,
+        1.1753515005111694
+      ],
+      "vertices": 572,
+      "materials": [
+        "Mat_Flying"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.115",
+      "type": "MESH",
+      "parent": "SnowyOwl",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.9150551557540894,
+        0.3455154299736023,
+        0.7406823635101318
+      ],
+      "vertices": 538,
+      "materials": [
+        "Mat_Flying"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.116",
+      "type": "MESH",
+      "parent": "Alligator",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.7339433431625366,
+        0.6728886365890503,
+        5.39975643157959
+      ],
+      "vertices": 536,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.117",
+      "type": "MESH",
+      "parent": "Crocodile",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.4351918697357178,
+        0.5544759035110474,
+        4.682217597961426
+      ],
+      "vertices": 554,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.118",
+      "type": "MESH",
+      "parent": "Gecko",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        2.7902019023895264,
+        1.8885549306869507,
+        8.8748140335083
+      ],
+      "vertices": 598,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.119",
+      "type": "MESH",
+      "parent": "Chameleon",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.0213994979858398,
+        0.7026539444923401,
+        1.4094488620758057
+      ],
+      "vertices": 606,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.120",
+      "type": "MESH",
+      "parent": "CoralSnake",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.5637317299842834,
+        0.5519065856933594,
+        0.6658886671066284
+      ],
+      "vertices": 749,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.121",
+      "type": "MESH",
+      "parent": "Rattlesnake",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.5902606844902039,
+        0.577879011631012,
+        0.6952196955680847
+      ],
+      "vertices": 772,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.122",
+      "type": "MESH",
+      "parent": "KomodoDragon",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.9468947649002075,
+        0.39186999201774597,
+        2.672978401184082
+      ],
+      "vertices": 576,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.123",
+      "type": "MESH",
+      "parent": "Tortoise",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.8429763317108154,
+        0.6982079744338989,
+        1.2665456533432007
+      ],
+      "vertices": 382,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.124",
+      "type": "MESH",
+      "parent": "RockIguana",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.6492910385131836,
+        0.2598486840724945,
+        1.462863564491272
+      ],
+      "vertices": 577,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.125",
+      "type": "MESH",
+      "parent": "GreenIguana",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.7503702640533447,
+        0.3095056414604187,
+        1.692735195159912
+      ],
+      "vertices": 578,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.126",
+      "type": "MESH",
+      "parent": "alt1.006",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.6548317074775696,
+        0.644883394241333,
+        0.624763011932373
+      ],
+      "vertices": 398,
+      "materials": [
+        "Mat_Refl",
+        "Mat_Transp"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.127",
+      "type": "MESH",
+      "parent": "alt2.005",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.6548317074775696,
+        0.644883394241333,
+        0.624763011932373
+      ],
+      "vertices": 380,
+      "materials": [
+        "Mat_Refl",
+        "Mat_Transp"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.128",
+      "type": "MESH",
+      "parent": "alt3.001",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.6548317074775696,
+        0.644883394241333,
+        0.624763011932373
+      ],
+      "vertices": 398,
+      "materials": [
+        "Mat_Refl",
+        "Mat_Transp"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.129",
+      "type": "MESH",
+      "parent": "Bee",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.33965635299682617,
+        0.11414235830307007,
+        0.22833701968193054
+      ],
+      "vertices": 716,
+      "materials": [
+        "Mat_Flying"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.130",
+      "type": "MESH",
+      "parent": "BlueMorphoButterfly",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.6560745239257812,
+        0.07770150154829025,
+        0.6198095679283142
+      ],
+      "vertices": 651,
+      "materials": [
+        "Mat_Flying"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.131",
+      "type": "MESH",
+      "parent": "Dragonfly",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.0692455768585205,
+        0.2292407900094986,
+        0.8151594400405884
+      ],
+      "vertices": 436,
+      "materials": [
+        "Mat_Flying"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.132",
+      "type": "MESH",
+      "parent": "MonarchButterfly",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.9506384134292603,
+        0.08312766999006271,
+        0.500200629234314
+      ],
+      "vertices": 581,
+      "materials": [
+        "Mat_Flying"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.133",
+      "type": "MESH",
+      "parent": "Mosquito",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.2545764148235321,
+        0.07938239723443985,
+        0.3372042775154114
+      ],
+      "vertices": 431,
+      "materials": [
+        "Mat_Flying"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.134",
+      "type": "MESH",
+      "parent": "MockerSwallowtailButterfly",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.9533892869949341,
+        0.10785458981990814,
+        0.7727726697921753
+      ],
+      "vertices": 766,
+      "materials": [
+        "Mat_Flying"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.135",
+      "type": "MESH",
+      "parent": "Moth",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.44249510765075684,
+        0.11109241098165512,
+        0.3635696470737457
+      ],
+      "vertices": 513,
+      "materials": [
+        "Mat_Flying"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.136",
+      "type": "MESH",
+      "parent": "Cicada",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.4199908375740051,
+        0.09824954718351364,
+        0.23525512218475342
+      ],
+      "vertices": 364,
+      "materials": [
+        "Mat_Flying"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.137",
+      "type": "MESH",
+      "parent": "DrosophilaMelanogaster",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.10325653105974197,
+        0.04440312460064888,
+        0.07014371454715729
+      ],
+      "vertices": 391,
+      "materials": [
+        "Mat_Flying"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.138",
+      "type": "MESH",
+      "parent": "Firefly",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.14338523149490356,
+        0.24486708641052246,
+        0.12693387269973755
+      ],
+      "vertices": 652,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.139",
+      "type": "MESH",
+      "parent": "BlueFly",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.18419158458709717,
+        0.0775735080242157,
+        0.13010773062705994
+      ],
+      "vertices": 391,
+      "materials": [
+        "Mat_Flying"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.140",
+      "type": "MESH",
+      "parent": "Batto",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.440938115119934,
+        0.13181638717651367,
+        0.4466230571269989
+      ],
+      "vertices": 414,
+      "materials": [
+        "Mat_Flying"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.141",
+      "type": "MESH",
+      "parent": "Curow",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        2.3198888301849365,
+        0.4075492024421692,
+        1.1475156545639038
+      ],
+      "vertices": 746,
+      "materials": [
+        "Mat_Flying"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.142",
+      "type": "MESH",
+      "parent": "Entraine",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.4958767294883728,
+        2.2147631645202637,
+        1.5715582370758057
+      ],
+      "vertices": 791,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "base.143",
+      "type": "MESH",
+      "parent": "Unicorn",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.5605289340019226,
+        2.0364575386047363,
+        2.1906278133392334
+      ],
+      "vertices": 611,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Batto",
+      "type": "EMPTY",
+      "parent": "Imaginary",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Bee",
+      "type": "EMPTY",
+      "parent": "FlyingInsects",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Bel",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "BighornSheep",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Birds",
+      "type": "EMPTY",
+      "parent": "ANIMALS",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "BirdsUpright",
+      "type": "EMPTY",
+      "parent": "ANIMALS",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Bison",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "BlackAnt",
+      "type": "EMPTY",
+      "parent": "Insects",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "BlackBear",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Blackbuck",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "BlackFeather",
+      "type": "EMPTY",
+      "parent": "AnimalParts",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "BlackHorse",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "BlackPanther",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "BlackSquirrel",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "BlackWidow",
+      "type": "EMPTY",
+      "parent": "Arachnids",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "BlueFly",
+      "type": "EMPTY",
+      "parent": "FlyingInsects",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "BlueMorphoButterfly",
+      "type": "EMPTY",
+      "parent": "FlyingInsects",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Boar",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Bobcat",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "BrokenBrain",
+      "type": "MESH",
+      "parent": "AnimalParts",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.2494674921035767,
+        1.1662744283676147,
+        1.6281756162643433
+      ],
+      "vertices": 2713,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "BrownBear",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "BrownCow",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Camel",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Camera",
+      "type": "CAMERA",
+      "parent": null,
+      "collections": [
+        "Scene Collection"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Caribou",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Cat",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Caterpillar",
+      "type": "EMPTY",
+      "parent": "Insects",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Centipede",
+      "type": "EMPTY",
+      "parent": "Insects",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Chameleon",
+      "type": "EMPTY",
+      "parent": "Reptiles",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Cheetah",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "ChestnutHorse",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Chicken",
+      "type": "EMPTY",
+      "parent": "BirdsUpright",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Chimpanzee",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Cicada",
+      "type": "EMPTY",
+      "parent": "FlyingInsects",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Condor",
+      "type": "EMPTY",
+      "parent": "Birds",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "CoralSnake",
+      "type": "EMPTY",
+      "parent": "Reptiles",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "CowboyBeetle",
+      "type": "EMPTY",
+      "parent": "Insects",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Coyote",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Crane",
+      "type": "EMPTY",
+      "parent": "BirdsUpright",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Cricket",
+      "type": "EMPTY",
+      "parent": "Insects",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Crocodile",
+      "type": "EMPTY",
+      "parent": "Reptiles",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Crow",
+      "type": "EMPTY",
+      "parent": "Birds",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Curow",
+      "type": "EMPTY",
+      "parent": "Imaginary",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "DblSided",
+      "type": "MESH",
+      "parent": "alt1.001",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        2.3854422569274902,
+        1.5303117036819458,
+        0.2725834846496582
+      ],
+      "vertices": 1272,
+      "materials": [
+        "Mat_DblSided"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "DblSided.001",
+      "type": "MESH",
+      "parent": "Firefly",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.16682539880275726,
+        0.06812722235918045,
+        0.13079151511192322
+      ],
+      "vertices": 40,
+      "materials": [
+        "Mat_DblSided"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "DeathStalkerScorpion",
+      "type": "EMPTY",
+      "parent": "Arachnids",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Deer",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Dobermann",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Donkey",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Dove",
+      "type": "EMPTY",
+      "parent": "Birds",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Dragonfly",
+      "type": "EMPTY",
+      "parent": "FlyingInsects",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "DrosophilaMelanogaster",
+      "type": "EMPTY",
+      "parent": "FlyingInsects",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Eagle",
+      "type": "EMPTY",
+      "parent": "Birds",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Earthworm",
+      "type": "EMPTY",
+      "parent": "Insects",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Elephant",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "EmperorScorpion",
+      "type": "EMPTY",
+      "parent": "Arachnids",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Entraine",
+      "type": "EMPTY",
+      "parent": "Imaginary",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "EyeBall",
+      "type": "EMPTY",
+      "parent": "AnimalParts",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "eyes",
+      "type": "MESH",
+      "parent": "Cricket",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.539855420589447,
+        0.2102869302034378,
+        0.265917032957077
+      ],
+      "vertices": 72,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "eyes.001",
+      "type": "MESH",
+      "parent": "Otter",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.1809527575969696,
+        0.31597769260406494,
+        0.9430209398269653
+      ],
+      "vertices": 493,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "eyes.002",
+      "type": "MESH",
+      "parent": "Wildebeest",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.8562166690826416,
+        1.6119515895843506,
+        1.8090020418167114
+      ],
+      "vertices": 832,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "eyes.003",
+      "type": "MESH",
+      "parent": "Sloth",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.6469723582267761,
+        0.5936149954795837,
+        0.9242368936538696
+      ],
+      "vertices": 694,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "eyes.004",
+      "type": "MESH",
+      "parent": "Cat",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.15573105216026306,
+        0.49089449644088745,
+        0.5514704585075378
+      ],
+      "vertices": 635,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "eyes.005",
+      "type": "MESH",
+      "parent": "Entraine",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.20010092854499817,
+        0.062037963420152664,
+        0.09225208312273026
+      ],
+      "vertices": 72,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "eyes.006",
+      "type": "MESH",
+      "parent": "Unicorn",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.2548045814037323,
+        0.0844380185008049,
+        0.11246933043003082
+      ],
+      "vertices": 72,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Falcon",
+      "type": "EMPTY",
+      "parent": "Birds",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "FireAnt",
+      "type": "EMPTY",
+      "parent": "Insects",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Firefly",
+      "type": "EMPTY",
+      "parent": "FlyingInsects",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "FlyingInsects",
+      "type": "EMPTY",
+      "parent": "ANIMALS",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Gecko",
+      "type": "EMPTY",
+      "parent": "Reptiles",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Gemsbok",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Giraffe",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Goat",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "GoldenStagBeetle",
+      "type": "EMPTY",
+      "parent": "Insects",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Goose",
+      "type": "EMPTY",
+      "parent": "Birds",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Gorilla",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Grackle",
+      "type": "EMPTY",
+      "parent": "Birds",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Grasshopper",
+      "type": "EMPTY",
+      "parent": "Insects",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "GrayHorse",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "GraySquirrel",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "GrayWolf",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "GreenFrog",
+      "type": "MESH",
+      "parent": "Amphibians",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.0989385843276978,
+        0.5288242101669312,
+        1.6193335056304932
+      ],
+      "vertices": 569,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "GreenIguana",
+      "type": "EMPTY",
+      "parent": "Reptiles",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Greyhound",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "GroundedCrow",
+      "type": "EMPTY",
+      "parent": "BirdsUpright",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "GroundedPigeon",
+      "type": "EMPTY",
+      "parent": "BirdsUpright",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Gull",
+      "type": "EMPTY",
+      "parent": "Birds",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "HarbourSeal",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Hare",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Hedgehog",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Hippo",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "HolsteinCow",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Hummingbird",
+      "type": "EMPTY",
+      "parent": "Birds",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Hyena",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Ibex",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Imaginary",
+      "type": "EMPTY",
+      "parent": "ANIMALS",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Insects",
+      "type": "EMPTY",
+      "parent": "ANIMALS",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "KitFox",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "KoalaBear",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "KomodoDragon",
+      "type": "EMPTY",
+      "parent": "Reptiles",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "LabradorPuppy",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Ladybug",
+      "type": "EMPTY",
+      "parent": "Insects",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Light",
+      "type": "LIGHT",
+      "parent": null,
+      "collections": [
+        "Scene Collection"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "light",
+      "type": "EMPTY",
+      "parent": "Firefly",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "light.001",
+      "type": "MESH",
+      "parent": "light",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.03230472654104233,
+        0.06061595678329468,
+        0.05147150903940201
+      ],
+      "vertices": 33,
+      "materials": [
+        "Mat_Light"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Lion",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Llama",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Mallard",
+      "type": "EMPTY",
+      "parent": "Birds",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Mandrill",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Marmot",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Megaloceros",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "MidnightDeer",
+      "type": "EMPTY",
+      "parent": "Imaginary",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Millipede",
+      "type": "EMPTY",
+      "parent": "Insects",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "MockerSwallowtailButterfly",
+      "type": "EMPTY",
+      "parent": "FlyingInsects",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "MonarchButterfly",
+      "type": "EMPTY",
+      "parent": "FlyingInsects",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Moose",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Mosquito",
+      "type": "EMPTY",
+      "parent": "FlyingInsects",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Moth",
+      "type": "EMPTY",
+      "parent": "FlyingInsects",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "MountainLion",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Mouse",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Muskox",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Okapi",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Opossum",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Orangutan",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Oryx",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Ostrich",
+      "type": "EMPTY",
+      "parent": "BirdsUpright",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Otter",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "PalominoHorse",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Panda",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Peacock",
+      "type": "EMPTY",
+      "parent": "BirdsUpright",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "PekinDuck",
+      "type": "EMPTY",
+      "parent": "BirdsUpright",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Penguin",
+      "type": "EMPTY",
+      "parent": "BirdsUpright",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Pig",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Pigeon",
+      "type": "EMPTY",
+      "parent": "Birds",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Plane",
+      "type": "MESH",
+      "parent": null,
+      "collections": [
+        "Scene Collection"
+      ],
+      "dimensions": [
+        178.9293975830078,
+        178.9293975830078,
+        0.0
+      ],
+      "vertices": 1089,
+      "materials": [
+        "Material.001"
+      ],
+      "modifiers": [
+        {
+          "type": "PARTICLE_SYSTEM",
+          "name": "ParticleSettings"
+        }
+      ]
+    },
+    {
+      "name": "PolarBear",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Poodle",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "PrayingMantis",
+      "type": "EMPTY",
+      "parent": "Insects",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Pronghorn",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Ptarmigan",
+      "type": "EMPTY",
+      "parent": "BirdsUpright",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Rabbit",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Raccoon",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Rat",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Rattlesnake",
+      "type": "EMPTY",
+      "parent": "Reptiles",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "RedBloodCell",
+      "type": "MESH",
+      "parent": "AnimalParts",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.8627899885177612,
+        0.5678911209106445,
+        1.863494873046875
+      ],
+      "vertices": 226,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "RedEyedTreeFrog",
+      "type": "MESH",
+      "parent": "Amphibians",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.1494054794311523,
+        0.5836527943611145,
+        0.9812734723091125
+      ],
+      "vertices": 815,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "RedFox",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "RedPanda",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "RedSquirrel",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Reptiles",
+      "type": "EMPTY",
+      "parent": "ANIMALS",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Rhino",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Roach",
+      "type": "EMPTY",
+      "parent": "Insects",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "RockIguana",
+      "type": "EMPTY",
+      "parent": "Reptiles",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "RockyMountainElk",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "SableAntelope",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Sheep",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Skeleton",
+      "type": "EMPTY",
+      "parent": "AnimalParts",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Skunk",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Sloth",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Snail",
+      "type": "EMPTY",
+      "parent": "Insects",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "SnowLeopard",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "SnowyOwl",
+      "type": "EMPTY",
+      "parent": "Birds",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "SpruceBeetle",
+      "type": "EMPTY",
+      "parent": "Insects",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "StagBeetle",
+      "type": "EMPTY",
+      "parent": "Insects",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Swallow",
+      "type": "EMPTY",
+      "parent": "Birds",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Swan",
+      "type": "EMPTY",
+      "parent": "BirdsUpright",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Tarantula",
+      "type": "EMPTY",
+      "parent": "Arachnids",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Tiger",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Toad",
+      "type": "MESH",
+      "parent": "Amphibians",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        1.0423932075500488,
+        0.6372803449630737,
+        1.0445163249969482
+      ],
+      "vertices": 649,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Tooth",
+      "type": "EMPTY",
+      "parent": "AnimalParts",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Tortoise",
+      "type": "EMPTY",
+      "parent": "Reptiles",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "transp",
+      "type": "MESH",
+      "parent": "Grasshopper",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.7541830539703369,
+        0.34166419506073,
+        2.299821376800537
+      ],
+      "vertices": 20,
+      "materials": [
+        "Mat_Transp"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "transp.001",
+      "type": "MESH",
+      "parent": "alt1.006",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.27737724781036377,
+        0.2731632888317108,
+        0.041189420968294144
+      ],
+      "vertices": 55,
+      "materials": [
+        "Mat_ParticleTransp"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "transp.002",
+      "type": "MESH",
+      "parent": "alt2.005",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.27737724781036377,
+        0.2731632888317108,
+        0.041189420968294144
+      ],
+      "vertices": 55,
+      "materials": [
+        "Mat_ParticleTransp"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "transp.003",
+      "type": "MESH",
+      "parent": "alt3.001",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.27737724781036377,
+        0.2731632888317108,
+        0.041189420968294144
+      ],
+      "vertices": 55,
+      "materials": [
+        "Mat_ParticleTransp"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "transp.004",
+      "type": "MESH",
+      "parent": "Firefly",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.13614676892757416,
+        0.05874703451991081,
+        0.14509479701519012
+      ],
+      "vertices": 24,
+      "materials": [
+        "Mat_FlyingInsectWings"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Turd",
+      "type": "MESH",
+      "parent": "AnimalParts",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.5439925789833069,
+        0.3159347176551819,
+        0.4767394959926605
+      ],
+      "vertices": 434,
+      "materials": [
+        "Mat_Standard"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Turkey",
+      "type": "EMPTY",
+      "parent": "BirdsUpright",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Unicorn",
+      "type": "EMPTY",
+      "parent": "Imaginary",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "VampireBat",
+      "type": "EMPTY",
+      "parent": "Birds",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Vulture",
+      "type": "EMPTY",
+      "parent": "Birds",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Walrus",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "WhiteCow",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "WhiteFeather",
+      "type": "EMPTY",
+      "parent": "AnimalParts",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "WhiteTiger",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "WildDuck",
+      "type": "EMPTY",
+      "parent": "BirdsUpright",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Wildebeest",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "WildHorse",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "WoolyMammoth",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    },
+    {
+      "name": "Zebra",
+      "type": "EMPTY",
+      "parent": "Animals",
+      "collections": [
+        "Animals"
+      ],
+      "dimensions": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "vertices": 0,
+      "materials": [],
+      "modifiers": []
+    }
+  ],
+  "actions": [],
+  "images": [
+    {
+      "name": "Render Result",
+      "path": "",
+      "packed": false
+    }
+  ]
+}

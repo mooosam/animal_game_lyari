@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/anteater.glb" id="1_qkq87"]
+[ext_resource type="Texture2D" path="res://assets/animals/anteater.png" id="2_qbk6s"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_wf8dy"]
+
+[resource]
+script = ExtResource("3_wf8dy")
+id = "anteater"
+title = "Anteater"
+ability = "dig"
+symbol = "↓"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_qkq87")
+portrait = ExtResource("2_qbk6s")
+family = "anteater"
+cycle_seconds = 1.7361111111111112
+model_height = 0.91787827
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "trot", "jump", "land", "dig", "feed", "rear", "termite_feeding", "rear_defend", "claw_swipe")

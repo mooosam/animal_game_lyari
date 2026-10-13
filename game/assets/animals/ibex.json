@@ -1,0 +1,42 @@
+{
+  "id": "ibex",
+  "title": "Ibex",
+  "source": "Ibex",
+  "family": "hoof",
+  "ability": "climb",
+  "period": 0.8627450980392157,
+  "height": 2.265432834625244,
+  "size": 2.5,
+  "model_scale": 1.15,
+  "clips": [
+    "idle",
+    "walk",
+    "run",
+    "turn_left",
+    "turn_right",
+    "stop",
+    "interact",
+    "hit_reaction",
+    "ability",
+    "celebrate",
+    "trot",
+    "jump",
+    "land",
+    "climb",
+    "graze",
+    "head_butt",
+    "rock_climb",
+    "leap",
+    "rear",
+    "horn_clash"
+  ],
+  "textures": [
+    "ibex_0_albedo.png",
+    "ibex_0_normal.png",
+    "ibex_0_ao.png",
+    "ibex_0_roughness.png"
+  ],
+  "bones": 23,
+  "vertices": 835,
+  "forward": "-Y Blender / -Z Godot after model rotation PI"
+}

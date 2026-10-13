@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/harbour_seal.glb" id="1_t4bm1"]
+[ext_resource type="Texture2D" path="res://assets/animals/harbour_seal.png" id="2_cj4l0"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_dqcee"]
+
+[resource]
+script = ExtResource("3_dqcee")
+id = "harbour_seal"
+title = "Harbour Seal"
+ability = "swim"
+symbol = "≈"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_t4bm1")
+portrait = ExtResource("2_cj4l0")
+family = "seal"
+cycle_seconds = 1.4743589743589742
+model_height = 1.0399575
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "land_undulate", "swim", "fast_swim", "dive", "surface", "roll", "turn", "flipper_slap")

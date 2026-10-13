@@ -1,0 +1,40 @@
+{
+  "id": "harbour_seal",
+  "title": "Harbour Seal",
+  "source": "HarbourSeal",
+  "family": "seal",
+  "ability": "swim",
+  "period": 1.4743589743589742,
+  "height": 1.0399575233459473,
+  "size": 2.8,
+  "model_scale": 1.15,
+  "clips": [
+    "idle",
+    "walk",
+    "run",
+    "turn_left",
+    "turn_right",
+    "stop",
+    "interact",
+    "hit_reaction",
+    "ability",
+    "celebrate",
+    "land_undulate",
+    "swim",
+    "fast_swim",
+    "dive",
+    "surface",
+    "roll",
+    "turn",
+    "flipper_slap"
+  ],
+  "textures": [
+    "harbour_seal_0_albedo.png",
+    "harbour_seal_0_normal.png",
+    "harbour_seal_0_ao.png",
+    "harbour_seal_0_roughness.png"
+  ],
+  "bones": 23,
+  "vertices": 538,
+  "forward": "-Y Blender / -Z Godot after model rotation PI"
+}

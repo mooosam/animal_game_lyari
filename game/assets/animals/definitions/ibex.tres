@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/ibex.glb" id="1_jgkpp"]
+[ext_resource type="Texture2D" path="res://assets/animals/ibex.png" id="2_jmves"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_yrm3q"]
+
+[resource]
+script = ExtResource("3_yrm3q")
+id = "ibex"
+title = "Ibex"
+ability = "climb"
+symbol = "↟"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_jgkpp")
+portrait = ExtResource("2_jmves")
+family = "hoof"
+cycle_seconds = 0.8627450980392157
+model_height = 2.2654328
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "trot", "jump", "land", "climb", "graze", "head_butt", "rock_climb", "leap", "rear", "horn_clash")

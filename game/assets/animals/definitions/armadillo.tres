@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/armadillo.glb" id="1_lercr"]
+[ext_resource type="Texture2D" path="res://assets/animals/armadillo.png" id="2_xfxvt"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_18x0l"]
+
+[resource]
+script = ExtResource("3_18x0l")
+id = "armadillo"
+title = "Armadillo"
+ability = "shield"
+symbol = "⬟"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_lercr")
+portrait = ExtResource("2_xfxvt")
+family = "armor"
+cycle_seconds = 2.6470588235294117
+model_height = 0.60834956
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "slow_walk", "retract", "emerge", "defend", "eat", "fast_walk", "dig", "turn", "curl_defend")

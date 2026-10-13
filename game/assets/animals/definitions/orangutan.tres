@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/orangutan.glb" id="1_rc3r3"]
+[ext_resource type="Texture2D" path="res://assets/animals/orangutan.png" id="2_4e2gh"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_6xohd"]
+
+[resource]
+script = ExtResource("3_6xohd")
+id = "orangutan"
+title = "Orangutan"
+ability = "climb"
+symbol = "↟"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_rc3r3")
+portrait = ExtResource("2_4e2gh")
+family = "ape"
+cycle_seconds = 1.0975609756097562
+model_height = 2.2745054
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "trot", "jump", "land", "knuckle_walk", "climb", "reach", "hang", "sit", "grab", "ground_walk", "branch_transfer", "swing")

@@ -1,0 +1,43 @@
+{
+  "id": "bighorn_sheep",
+  "title": "Bighorn Sheep",
+  "source": "BighornSheep",
+  "family": "hoof",
+  "ability": "smash",
+  "period": 0.9361702127659575,
+  "height": 2.361712694168091,
+  "size": 2.5,
+  "model_scale": 1.15,
+  "clips": [
+    "idle",
+    "walk",
+    "run",
+    "turn_left",
+    "turn_right",
+    "stop",
+    "interact",
+    "hit_reaction",
+    "ability",
+    "celebrate",
+    "trot",
+    "jump",
+    "land",
+    "climb",
+    "graze",
+    "head_butt",
+    "horn_clash"
+  ],
+  "textures": [
+    "bighorn_sheep_0_albedo.png",
+    "bighorn_sheep_0_normal.png",
+    "bighorn_sheep_0_ao.png",
+    "bighorn_sheep_0_roughness.png",
+    "bighorn_sheep_1_albedo.png",
+    "bighorn_sheep_1_normal.png",
+    "bighorn_sheep_1_ao.png",
+    "bighorn_sheep_1_roughness.png"
+  ],
+  "bones": 23,
+  "vertices": 1312,
+  "forward": "-Y Blender / -Z Godot after model rotation PI"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "red_fox",
+  "title": "Red Fox",
+  "source": "RedFox",
+  "family": "canine",
+  "ability": "jump",
+  "period": 0.6782608695652175,
+  "height": 1.3442065715789795,
+  "size": 2.0,
+  "model_scale": 1.15,
+  "clips": [
+    "idle",
+    "walk",
+    "run",
+    "turn_left",
+    "turn_right",
+    "stop",
+    "interact",
+    "hit_reaction",
+    "ability",
+    "celebrate",
+    "trot",
+    "jump",
+    "land",
+    "pounce",
+    "dig",
+    "sit",
+    "hunting_pounce",
+    "bite"
+  ],
+  "textures": [
+    "red_fox_0_albedo.png",
+    "red_fox_0_normal.png",
+    "red_fox_0_ao.png",
+    "red_fox_0_roughness.png"
+  ],
+  "bones": 23,
+  "vertices": 654,
+  "forward": "-Y Blender / -Z Godot after model rotation PI"
+}

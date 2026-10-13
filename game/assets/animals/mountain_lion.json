@@ -1,0 +1,41 @@
+{
+  "id": "mountain_lion",
+  "title": "Mountain Lion",
+  "source": "MountainLion",
+  "family": "feline",
+  "ability": "jump",
+  "period": 0.6862745098039215,
+  "height": 1.5308146476745605,
+  "size": 2.7,
+  "model_scale": 1.15,
+  "clips": [
+    "idle",
+    "walk",
+    "run",
+    "turn_left",
+    "turn_right",
+    "stop",
+    "interact",
+    "hit_reaction",
+    "ability",
+    "celebrate",
+    "trot",
+    "jump",
+    "land",
+    "sprint",
+    "stalk",
+    "leap",
+    "roar",
+    "climb",
+    "attack"
+  ],
+  "textures": [
+    "mountain_lion_0_albedo.png",
+    "mountain_lion_0_normal.png",
+    "mountain_lion_0_ao.png",
+    "mountain_lion_0_roughness.png"
+  ],
+  "bones": 23,
+  "vertices": 681,
+  "forward": "-Y Blender / -Z Godot after model rotation PI"
+}

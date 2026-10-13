@@ -1,0 +1,38 @@
+{
+  "id": "rhino",
+  "title": "Rhino",
+  "source": "Rhino",
+  "family": "heavy",
+  "ability": "smash",
+  "period": 1.3414634146341464,
+  "height": 1.588675618171692,
+  "size": 2.7,
+  "model_scale": 1.4,
+  "clips": [
+    "idle",
+    "walk",
+    "run",
+    "turn_left",
+    "turn_right",
+    "stop",
+    "interact",
+    "hit_reaction",
+    "ability",
+    "celebrate",
+    "trot",
+    "charge",
+    "head_swing",
+    "eat",
+    "turn",
+    "horn_attack"
+  ],
+  "textures": [
+    "rhino_0_albedo.png",
+    "rhino_0_normal.png",
+    "rhino_0_ao.png",
+    "rhino_0_roughness.png"
+  ],
+  "bones": 23,
+  "vertices": 533,
+  "forward": "-Y Blender / -Z Godot after model rotation PI"
+}

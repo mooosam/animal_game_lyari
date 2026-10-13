@@ -1,0 +1,42 @@
+{
+  "id": "gray_wolf",
+  "title": "Gray Wolf",
+  "source": "GrayWolf",
+  "family": "canine",
+  "ability": "jump",
+  "period": 0.78,
+  "height": 1.523627519607544,
+  "size": 2.5,
+  "model_scale": 1.15,
+  "clips": [
+    "idle",
+    "walk",
+    "run",
+    "turn_left",
+    "turn_right",
+    "stop",
+    "interact",
+    "hit_reaction",
+    "ability",
+    "celebrate",
+    "trot",
+    "jump",
+    "land",
+    "pounce",
+    "dig",
+    "sit",
+    "gallop",
+    "stalk",
+    "howl",
+    "bite"
+  ],
+  "textures": [
+    "gray_wolf_0_albedo.png",
+    "gray_wolf_0_normal.png",
+    "gray_wolf_0_ao.png",
+    "gray_wolf_0_roughness.png"
+  ],
+  "bones": 23,
+  "vertices": 654,
+  "forward": "-Y Blender / -Z Godot after model rotation PI"
+}

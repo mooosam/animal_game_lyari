@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/brown_bear.glb" id="1_5dou0"]
+[ext_resource type="Texture2D" path="res://assets/animals/brown_bear.png" id="2_eopgt"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_vao7c"]
+
+[resource]
+script = ExtResource("3_vao7c")
+id = "brown_bear"
+title = "Brown Bear"
+ability = "smash"
+symbol = "◆"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_5dou0")
+portrait = ExtResource("2_eopgt")
+family = "bear"
+cycle_seconds = 1.3125
+model_height = 1.9583238
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "trot", "jump", "land", "stand", "sit", "charge", "dig", "swipe", "bite")

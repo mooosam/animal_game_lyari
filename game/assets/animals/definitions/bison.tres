@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/bison.glb" id="1_6v0ek"]
+[ext_resource type="Texture2D" path="res://assets/animals/bison.png" id="2_ivs5u"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_i0yyv"]
+
+[resource]
+script = ExtResource("3_i0yyv")
+id = "bison"
+title = "Bison"
+ability = "smash"
+symbol = "◆"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_6v0ek")
+portrait = ExtResource("2_ivs5u")
+family = "hoof"
+cycle_seconds = 1.1282051282051282
+model_height = 2.1267679
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "trot", "jump", "land", "climb", "graze", "head_butt", "charge", "turn")

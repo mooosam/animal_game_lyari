@@ -1,0 +1,40 @@
+{
+  "id": "turtle",
+  "title": "Tortoise",
+  "source": "Tortoise",
+  "family": "armor",
+  "ability": "shield",
+  "period": 3.0,
+  "height": 1.102538824081421,
+  "size": 2.0,
+  "model_scale": 1.25,
+  "clips": [
+    "idle",
+    "walk",
+    "run",
+    "turn_left",
+    "turn_right",
+    "stop",
+    "interact",
+    "hit_reaction",
+    "ability",
+    "celebrate",
+    "slow_walk",
+    "retract",
+    "emerge",
+    "defend",
+    "eat",
+    "turn",
+    "step_up",
+    "retract_head"
+  ],
+  "textures": [
+    "turtle_0_albedo.png",
+    "turtle_0_normal.png",
+    "turtle_0_ao.png",
+    "turtle_0_roughness.png"
+  ],
+  "bones": 23,
+  "vertices": 382,
+  "forward": "-Y Blender / -Z Godot after model rotation PI"
+}

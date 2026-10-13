@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/red_squirrel.glb" id="1_8vrhh"]
+[ext_resource type="Texture2D" path="res://assets/animals/red_squirrel.png" id="2_4d1e0"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_sfk45"]
+
+[resource]
+script = ExtResource("3_sfk45")
+id = "red_squirrel"
+title = "Red Squirrel"
+ability = "climb"
+symbol = "↟"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_8vrhh")
+portrait = ExtResource("2_4d1e0")
+family = "hopper"
+cycle_seconds = 0.5666666666666668
+model_height = 1.5764436
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "trot", "jump", "land", "bound", "sprint", "climb", "eat", "descend", "tail_flick", "tree_climb")

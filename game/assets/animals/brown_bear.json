@@ -1,0 +1,41 @@
+{
+  "id": "brown_bear",
+  "title": "Brown Bear",
+  "source": "BrownBear",
+  "family": "bear",
+  "ability": "smash",
+  "period": 1.3125,
+  "height": 1.9583238363265991,
+  "size": 3.0,
+  "model_scale": 1.15,
+  "clips": [
+    "idle",
+    "walk",
+    "run",
+    "turn_left",
+    "turn_right",
+    "stop",
+    "interact",
+    "hit_reaction",
+    "ability",
+    "celebrate",
+    "trot",
+    "jump",
+    "land",
+    "stand",
+    "sit",
+    "charge",
+    "dig",
+    "swipe",
+    "bite"
+  ],
+  "textures": [
+    "brown_bear_0_albedo.png",
+    "brown_bear_0_normal.png",
+    "brown_bear_0_ao.png",
+    "brown_bear_0_roughness.png"
+  ],
+  "bones": 23,
+  "vertices": 514,
+  "forward": "-Y Blender / -Z Godot after model rotation PI"
+}

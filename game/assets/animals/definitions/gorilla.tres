@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/gorilla.glb" id="1_mqj6o"]
+[ext_resource type="Texture2D" path="res://assets/animals/gorilla.png" id="2_axq7g"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_4agqn"]
+
+[resource]
+script = ExtResource("3_4agqn")
+id = "gorilla"
+title = "Gorilla"
+ability = "smash"
+symbol = "◆"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_mqj6o")
+portrait = ExtResource("2_axq7g")
+family = "ape"
+cycle_seconds = 1.0588235294117647
+model_height = 2.8
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "trot", "jump", "land", "knuckle_walk", "climb", "reach", "hang", "sit", "grab", "run_charge", "turn", "stand", "chest_beat", "swipe")

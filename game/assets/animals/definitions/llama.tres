@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/llama.glb" id="1_g8673"]
+[ext_resource type="Texture2D" path="res://assets/animals/llama.png" id="2_d722w"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_0xpqw"]
+
+[resource]
+script = ExtResource("3_0xpqw")
+id = "llama"
+title = "Llama"
+ability = "jump"
+symbol = "∩"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_g8673")
+portrait = ExtResource("2_d722w")
+family = "camelid"
+cycle_seconds = 1.2222222222222223
+model_height = 2.8
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "trot", "jump", "land", "pace", "kneel", "stand_up", "eat", "sit_kush", "kick", "spit")

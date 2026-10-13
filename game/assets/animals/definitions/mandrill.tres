@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/mandrill.glb" id="1_06e7j"]
+[ext_resource type="Texture2D" path="res://assets/animals/mandrill.png" id="2_4ahw4"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_5ukks"]
+
+[resource]
+script = ExtResource("3_5ukks")
+id = "mandrill"
+title = "Mandrill"
+ability = "climb"
+symbol = "↟"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_06e7j")
+portrait = ExtResource("2_4ahw4")
+family = "primate"
+cycle_seconds = 0.8210526315789475
+model_height = 2.1999998
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "trot", "jump", "land", "climb", "forage", "sit", "threat", "bite")

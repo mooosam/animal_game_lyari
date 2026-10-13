@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/red_fox.glb" id="1_dcss2"]
+[ext_resource type="Texture2D" path="res://assets/animals/red_fox.png" id="2_uldqa"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_83ues"]
+
+[resource]
+script = ExtResource("3_83ues")
+id = "red_fox"
+title = "Red Fox"
+ability = "jump"
+symbol = "∩"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_dcss2")
+portrait = ExtResource("2_uldqa")
+family = "canine"
+cycle_seconds = 0.6782608695652175
+model_height = 1.3442066
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "trot", "jump", "land", "pounce", "dig", "sit", "hunting_pounce", "bite")

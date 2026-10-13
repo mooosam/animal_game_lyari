@@ -1,0 +1,42 @@
+{
+  "id": "tiger",
+  "title": "Tiger",
+  "source": "Tiger",
+  "family": "feline",
+  "ability": "jump",
+  "period": 0.673076923076923,
+  "height": 1.807766079902649,
+  "size": 2.8,
+  "model_scale": 1.15,
+  "clips": [
+    "idle",
+    "walk",
+    "run",
+    "turn_left",
+    "turn_right",
+    "stop",
+    "interact",
+    "hit_reaction",
+    "ability",
+    "celebrate",
+    "trot",
+    "jump",
+    "land",
+    "sprint",
+    "stalk",
+    "leap",
+    "roar",
+    "swim",
+    "swipe",
+    "bite"
+  ],
+  "textures": [
+    "tiger_0_albedo.png",
+    "tiger_0_normal.png",
+    "tiger_0_ao.png",
+    "tiger_0_roughness.png"
+  ],
+  "bones": 23,
+  "vertices": 675,
+  "forward": "-Y Blender / -Z Godot after model rotation PI"
+}

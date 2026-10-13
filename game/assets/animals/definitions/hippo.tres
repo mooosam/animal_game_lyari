@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/hippo.glb" id="1_7arjr"]
+[ext_resource type="Texture2D" path="res://assets/animals/hippo.png" id="2_g3we1"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_wmbnn"]
+
+[resource]
+script = ExtResource("3_wmbnn")
+id = "hippo"
+title = "Hippopotamus"
+ability = "swim"
+symbol = "≈"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_7arjr")
+portrait = ExtResource("2_g3we1")
+family = "heavy"
+cycle_seconds = 1.8965517241379313
+model_height = 1.5549258
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "trot", "charge", "head_swing", "eat", "swim", "dive", "surface", "underwater_walk_bound", "swim_glide", "bite", "yawn")

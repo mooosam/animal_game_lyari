@@ -1,0 +1,41 @@
+{
+  "id": "anteater",
+  "title": "Anteater",
+  "source": "Anteater",
+  "family": "anteater",
+  "ability": "dig",
+  "period": 1.7361111111111112,
+  "height": 0.917878270149231,
+  "size": 2.6,
+  "model_scale": 1.15,
+  "clips": [
+    "idle",
+    "walk",
+    "run",
+    "turn_left",
+    "turn_right",
+    "stop",
+    "interact",
+    "hit_reaction",
+    "ability",
+    "celebrate",
+    "trot",
+    "jump",
+    "land",
+    "dig",
+    "feed",
+    "rear",
+    "termite_feeding",
+    "rear_defend",
+    "claw_swipe"
+  ],
+  "textures": [
+    "anteater_0_albedo.png",
+    "anteater_0_normal.png",
+    "anteater_0_ao.png",
+    "anteater_0_roughness.png"
+  ],
+  "bones": 23,
+  "vertices": 614,
+  "forward": "-Y Blender / -Z Godot after model rotation PI"
+}

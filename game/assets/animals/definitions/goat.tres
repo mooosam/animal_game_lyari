@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/goat.glb" id="1_ifar0"]
+[ext_resource type="Texture2D" path="res://assets/animals/goat.png" id="2_2811m"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_pyxi2"]
+
+[resource]
+script = ExtResource("3_pyxi2")
+id = "goat"
+title = "Goat"
+ability = "climb"
+symbol = "↟"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_ifar0")
+portrait = ExtResource("2_2811m")
+family = "hoof"
+cycle_seconds = 0.88
+model_height = 1.9758704900741575
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "trot", "jump", "land", "climb", "graze", "head_butt", "rear")

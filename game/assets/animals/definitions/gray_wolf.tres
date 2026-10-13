@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/gray_wolf.glb" id="1_5w0es"]
+[ext_resource type="Texture2D" path="res://assets/animals/gray_wolf.png" id="2_56i0i"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_54krn"]
+
+[resource]
+script = ExtResource("3_54krn")
+id = "gray_wolf"
+title = "Gray Wolf"
+ability = "jump"
+symbol = "∩"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_5w0es")
+portrait = ExtResource("2_56i0i")
+family = "canine"
+cycle_seconds = 0.78
+model_height = 1.5236275
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "trot", "jump", "land", "pounce", "dig", "sit", "gallop", "stalk", "howl", "bite")

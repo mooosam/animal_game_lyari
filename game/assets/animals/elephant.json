@@ -1,0 +1,40 @@
+{
+  "id": "elephant",
+  "title": "Elephant",
+  "source": "Elephant",
+  "family": "elephant",
+  "ability": "smash",
+  "period": 2.0588235294117645,
+  "height": 2.298779010772705,
+  "size": 3.3,
+  "model_scale": 1.05,
+  "clips": [
+    "idle",
+    "walk",
+    "run",
+    "turn_left",
+    "turn_right",
+    "stop",
+    "interact",
+    "hit_reaction",
+    "ability",
+    "celebrate",
+    "trot",
+    "fast_walk",
+    "trunk_grab",
+    "push",
+    "drink",
+    "eat",
+    "turn",
+    "charge"
+  ],
+  "textures": [
+    "elephant_0_albedo.png",
+    "elephant_0_normal.png",
+    "elephant_0_ao.png",
+    "elephant_0_roughness.png"
+  ],
+  "bones": 22,
+  "vertices": 568,
+  "forward": "-Y Blender / -Z Godot after model rotation PI"
+}

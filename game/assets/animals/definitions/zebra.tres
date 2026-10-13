@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/zebra.glb" id="1_cmkqr"]
+[ext_resource type="Texture2D" path="res://assets/animals/zebra.png" id="2_kh6ko"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_m15ol"]
+
+[resource]
+script = ExtResource("3_m15ol")
+id = "zebra"
+title = "Zebra"
+ability = "jump"
+symbol = "∩"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_cmkqr")
+portrait = ExtResource("2_kh6ko")
+family = "hoof"
+cycle_seconds = 0.8380952380952381
+model_height = 2.4315002
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "trot", "jump", "land", "climb", "graze", "head_butt", "canter", "gallop", "turn", "kick", "rear")

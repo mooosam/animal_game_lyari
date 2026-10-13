@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/bighorn_sheep.glb" id="1_7xus8"]
+[ext_resource type="Texture2D" path="res://assets/animals/bighorn_sheep.png" id="2_7q0a8"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_f2bhf"]
+
+[resource]
+script = ExtResource("3_f2bhf")
+id = "bighorn_sheep"
+title = "Bighorn Sheep"
+ability = "smash"
+symbol = "◆"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_7xus8")
+portrait = ExtResource("2_7q0a8")
+family = "hoof"
+cycle_seconds = 0.9361702127659576
+model_height = 2.3617127
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "trot", "jump", "land", "climb", "graze", "head_butt", "horn_clash")

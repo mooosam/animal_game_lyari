@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/mountain_lion.glb" id="1_0u1a6"]
+[ext_resource type="Texture2D" path="res://assets/animals/mountain_lion.png" id="2_nlkr8"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_6cde0"]
+
+[resource]
+script = ExtResource("3_6cde0")
+id = "mountain_lion"
+title = "Mountain Lion"
+ability = "jump"
+symbol = "∩"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_0u1a6")
+portrait = ExtResource("2_nlkr8")
+family = "feline"
+cycle_seconds = 0.6862745098039215
+model_height = 1.5308146476745603
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "trot", "jump", "land", "sprint", "stalk", "leap", "roar", "climb", "attack")

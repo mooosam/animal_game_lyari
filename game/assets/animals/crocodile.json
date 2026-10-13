@@ -1,0 +1,42 @@
+{
+  "id": "crocodile",
+  "title": "Crocodile",
+  "source": "Crocodile",
+  "family": "reptile",
+  "ability": "swim",
+  "period": 1.8939393939393938,
+  "height": 0.3552650511264801,
+  "size": 3.0,
+  "model_scale": 1.15,
+  "clips": [
+    "idle",
+    "walk",
+    "run",
+    "turn_left",
+    "turn_right",
+    "stop",
+    "interact",
+    "hit_reaction",
+    "ability",
+    "celebrate",
+    "trot",
+    "low_walk",
+    "high_walk",
+    "swim",
+    "dive",
+    "tail_whip",
+    "surface",
+    "turn",
+    "bite",
+    "tail_swipe"
+  ],
+  "textures": [
+    "crocodile_0_albedo.png",
+    "crocodile_0_normal.png",
+    "crocodile_0_ao.png",
+    "crocodile_0_roughness.png"
+  ],
+  "bones": 23,
+  "vertices": 554,
+  "forward": "-Y Blender / -Z Godot after model rotation PI"
+}

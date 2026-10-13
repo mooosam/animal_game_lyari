@@ -1,0 +1,21 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/elephant.glb" id="1_twxwr"]
+[ext_resource type="Texture2D" path="res://assets/animals/elephant.png" id="2_amstf"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_rvllq"]
+
+[resource]
+script = ExtResource("3_rvllq")
+id = "elephant"
+title = "Elephant"
+ability = "smash"
+symbol = "◆"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_twxwr")
+portrait = ExtResource("2_amstf")
+run_multiplier = 0.85
+family = "elephant"
+model_scale = 1.05
+cycle_seconds = 2.0588235294117645
+model_height = 2.298779
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "trot", "fast_walk", "trunk_grab", "push", "drink", "eat", "turn", "charge")

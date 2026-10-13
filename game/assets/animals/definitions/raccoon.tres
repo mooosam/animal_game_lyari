@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/raccoon.glb" id="1_sgxom"]
+[ext_resource type="Texture2D" path="res://assets/animals/raccoon.png" id="2_xytoj"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_vywav"]
+
+[resource]
+script = ExtResource("3_vywav")
+id = "raccoon"
+title = "Raccoon"
+ability = "climb"
+symbol = "↟"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_sgxom")
+portrait = ExtResource("2_xytoj")
+family = "climber"
+cycle_seconds = 1.0106382978723405
+model_height = 0.836978
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "trot", "jump", "land", "climb", "descend", "balance", "eat", "grab", "wash_feel", "stand", "bite")

@@ -1,0 +1,41 @@
+{
+  "id": "frog",
+  "title": "Green Frog",
+  "source": "RedEyedTreeFrog",
+  "family": "frog",
+  "ability": "jump",
+  "period": 0.6434782608695653,
+  "height": 0.8124585747718811,
+  "size": 1.6,
+  "model_scale": 1.25,
+  "clips": [
+    "idle",
+    "walk",
+    "run",
+    "turn_left",
+    "turn_right",
+    "stop",
+    "interact",
+    "hit_reaction",
+    "ability",
+    "celebrate",
+    "jump",
+    "land",
+    "crouch",
+    "hop",
+    "long_jump",
+    "frog_kick",
+    "swim",
+    "turn",
+    "tongue_catch"
+  ],
+  "textures": [
+    "frog_0_albedo.png",
+    "frog_0_normal.png",
+    "frog_0_ao.png",
+    "frog_0_roughness.png"
+  ],
+  "bones": 23,
+  "vertices": 815,
+  "forward": "-Y Blender / -Z Godot after model rotation PI"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "raccoon",
+  "title": "Raccoon",
+  "source": "Raccoon",
+  "family": "climber",
+  "ability": "climb",
+  "period": 1.0106382978723405,
+  "height": 0.836978018283844,
+  "size": 2.2,
+  "model_scale": 1.15,
+  "clips": [
+    "idle",
+    "walk",
+    "run",
+    "turn_left",
+    "turn_right",
+    "stop",
+    "interact",
+    "hit_reaction",
+    "ability",
+    "celebrate",
+    "trot",
+    "jump",
+    "land",
+    "climb",
+    "descend",
+    "balance",
+    "eat",
+    "grab",
+    "wash_feel",
+    "stand",
+    "bite"
+  ],
+  "textures": [
+    "raccoon_0_albedo.png",
+    "raccoon_0_normal.png",
+    "raccoon_0_ao.png",
+    "raccoon_0_roughness.png"
+  ],
+  "bones": 23,
+  "vertices": 597,
+  "forward": "-Y Blender / -Z Godot after model rotation PI"
+}

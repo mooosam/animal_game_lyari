@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/moose.glb" id="1_fkytw"]
+[ext_resource type="Texture2D" path="res://assets/animals/moose.png" id="2_i1d6t"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_iomlu"]
+
+[resource]
+script = ExtResource("3_iomlu")
+id = "moose"
+title = "Moose"
+ability = "jump"
+symbol = "∩"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_fkytw")
+portrait = ExtResource("2_i1d6t")
+family = "hoof"
+cycle_seconds = 1.1733333333333331
+model_height = 3.0659676
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "trot", "jump", "land", "climb", "graze", "head_butt", "high_step_snow_walk", "swim", "eat", "charge", "antler_attack")

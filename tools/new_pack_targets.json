@@ -1,0 +1,1058 @@
+[
+  {
+    "name": "Rhino",
+    "bounds": [
+      [
+        -0.5133429765701294,
+        0.5133429765701294
+      ],
+      [
+        -1.7037349939346313,
+        1.655306100845337
+      ],
+      [
+        -7.528645085130847e-08,
+        1.976454257965088
+      ]
+    ],
+    "meshes": [
+      {
+        "name": "base.065",
+        "rotation": [
+          0.0,
+          -0.0,
+          0.0
+        ],
+        "matrix": [
+          [
+            0.009999999776482582,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292067694934076e-09,
+            -0.009999999776482582,
+            0.0
+          ],
+          [
+            0.0,
+            0.009999999776482582,
+            -1.6292067694934076e-09,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "attributes": [
+          [
+            ".select_vert",
+            "BOOLEAN",
+            "POINT"
+          ],
+          [
+            ".select_edge",
+            "BOOLEAN",
+            "EDGE"
+          ],
+          [
+            ".select_poly",
+            "BOOLEAN",
+            "FACE"
+          ],
+          [
+            "position",
+            "FLOAT_VECTOR",
+            "POINT"
+          ],
+          [
+            ".edge_verts",
+            "INT32_2D",
+            "EDGE"
+          ],
+          [
+            ".corner_vert",
+            "INT",
+            "CORNER"
+          ],
+          [
+            ".corner_edge",
+            "INT",
+            "CORNER"
+          ],
+          [
+            "colorSet1",
+            "BYTE_COLOR",
+            "CORNER"
+          ],
+          [
+            "custom_normal",
+            "INT16_2D",
+            "CORNER"
+          ],
+          [
+            "map1",
+            "FLOAT2",
+            "CORNER"
+          ]
+        ],
+        "materials": [
+          {
+            "name": "Mat_Standard",
+            "nodes": [
+              [
+                "Principled BSDF",
+                "BSDF_PRINCIPLED"
+              ],
+              [
+                "Normal Map",
+                "NORMAL_MAP"
+              ],
+              [
+                "Material Output",
+                "OUTPUT_MATERIAL"
+              ],
+              [
+                "Vertex Color",
+                "VERTEX_COLOR"
+              ]
+            ],
+            "links": [
+              [
+                "Principled BSDF",
+                "BSDF",
+                "Material Output",
+                "Surface"
+              ],
+              [
+                "Normal Map",
+                "Normal",
+                "Principled BSDF",
+                "Normal"
+              ],
+              [
+                "Vertex Color",
+                "Color",
+                "Principled BSDF",
+                "Base Color"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "SnowyOwl",
+    "bounds": [
+      [
+        -0.9575275778770447,
+        0.9575275778770447
+      ],
+      [
+        -0.3059846758842468,
+        0.43469762802124023
+      ],
+      [
+        -0.2231517881155014,
+        0.1223636120557785
+      ]
+    ],
+    "meshes": [
+      {
+        "name": "base.115",
+        "rotation": [
+          0.0,
+          -0.0,
+          0.0
+        ],
+        "matrix": [
+          [
+            0.009999999776482582,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292067694934076e-09,
+            -0.009999999776482582,
+            0.0
+          ],
+          [
+            0.0,
+            0.009999999776482582,
+            -1.6292067694934076e-09,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "attributes": [
+          [
+            ".select_vert",
+            "BOOLEAN",
+            "POINT"
+          ],
+          [
+            ".select_edge",
+            "BOOLEAN",
+            "EDGE"
+          ],
+          [
+            ".select_poly",
+            "BOOLEAN",
+            "FACE"
+          ],
+          [
+            "position",
+            "FLOAT_VECTOR",
+            "POINT"
+          ],
+          [
+            ".edge_verts",
+            "INT32_2D",
+            "EDGE"
+          ],
+          [
+            ".corner_vert",
+            "INT",
+            "CORNER"
+          ],
+          [
+            ".corner_edge",
+            "INT",
+            "CORNER"
+          ],
+          [
+            "colorSet1",
+            "BYTE_COLOR",
+            "CORNER"
+          ],
+          [
+            "custom_normal",
+            "INT16_2D",
+            "CORNER"
+          ],
+          [
+            "map1",
+            "FLOAT2",
+            "CORNER"
+          ]
+        ],
+        "materials": [
+          {
+            "name": "Mat_Flying",
+            "nodes": [
+              [
+                "Principled BSDF",
+                "BSDF_PRINCIPLED"
+              ],
+              [
+                "Normal Map",
+                "NORMAL_MAP"
+              ],
+              [
+                "Material Output",
+                "OUTPUT_MATERIAL"
+              ],
+              [
+                "Vertex Color",
+                "VERTEX_COLOR"
+              ]
+            ],
+            "links": [
+              [
+                "Principled BSDF",
+                "BSDF",
+                "Material Output",
+                "Surface"
+              ],
+              [
+                "Normal Map",
+                "Normal",
+                "Principled BSDF",
+                "Normal"
+              ],
+              [
+                "Vertex Color",
+                "Color",
+                "Principled BSDF",
+                "Base Color"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "GreenFrog",
+    "bounds": [
+      [
+        -0.5494692921638489,
+        0.5494692921638489
+      ],
+      [
+        -0.45190924406051636,
+        1.1674243211746216
+      ],
+      [
+        -0.000706658698618412,
+        0.528117299079895
+      ]
+    ],
+    "meshes": [
+      {
+        "name": "GreenFrog",
+        "rotation": [
+          0.0,
+          -0.0,
+          0.0
+        ],
+        "matrix": [
+          [
+            0.009999999776482582,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292067694934076e-09,
+            -0.009999999776482582,
+            0.0
+          ],
+          [
+            0.0,
+            0.009999999776482582,
+            -1.6292067694934076e-09,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "attributes": [
+          [
+            ".select_vert",
+            "BOOLEAN",
+            "POINT"
+          ],
+          [
+            ".select_edge",
+            "BOOLEAN",
+            "EDGE"
+          ],
+          [
+            ".select_poly",
+            "BOOLEAN",
+            "FACE"
+          ],
+          [
+            "sharp_edge",
+            "BOOLEAN",
+            "EDGE"
+          ],
+          [
+            "position",
+            "FLOAT_VECTOR",
+            "POINT"
+          ],
+          [
+            ".edge_verts",
+            "INT32_2D",
+            "EDGE"
+          ],
+          [
+            ".corner_vert",
+            "INT",
+            "CORNER"
+          ],
+          [
+            ".corner_edge",
+            "INT",
+            "CORNER"
+          ],
+          [
+            "colorSet1",
+            "BYTE_COLOR",
+            "CORNER"
+          ],
+          [
+            "custom_normal",
+            "INT16_2D",
+            "CORNER"
+          ],
+          [
+            "map1",
+            "FLOAT2",
+            "CORNER"
+          ]
+        ],
+        "materials": [
+          {
+            "name": "Mat_Standard",
+            "nodes": [
+              [
+                "Principled BSDF",
+                "BSDF_PRINCIPLED"
+              ],
+              [
+                "Normal Map",
+                "NORMAL_MAP"
+              ],
+              [
+                "Material Output",
+                "OUTPUT_MATERIAL"
+              ],
+              [
+                "Vertex Color",
+                "VERTEX_COLOR"
+              ]
+            ],
+            "links": [
+              [
+                "Principled BSDF",
+                "BSDF",
+                "Material Output",
+                "Surface"
+              ],
+              [
+                "Normal Map",
+                "Normal",
+                "Principled BSDF",
+                "Normal"
+              ],
+              [
+                "Vertex Color",
+                "Color",
+                "Principled BSDF",
+                "Base Color"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Otter",
+    "bounds": [
+      [
+        -0.0904763787984848,
+        0.0904763787984848
+      ],
+      [
+        -0.41926708817481995,
+        0.5237538814544678
+      ],
+      [
+        -2.9350571750796917e-08,
+        0.31597763299942017
+      ]
+    ],
+    "meshes": [
+      {
+        "name": "eyes.001",
+        "rotation": [
+          0.0,
+          -0.0,
+          0.0
+        ],
+        "matrix": [
+          [
+            0.009999999776482582,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292067694934076e-09,
+            -0.009999999776482582,
+            0.0
+          ],
+          [
+            0.0,
+            0.009999999776482582,
+            -1.6292067694934076e-09,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "attributes": [
+          [
+            ".select_vert",
+            "BOOLEAN",
+            "POINT"
+          ],
+          [
+            ".select_edge",
+            "BOOLEAN",
+            "EDGE"
+          ],
+          [
+            ".select_poly",
+            "BOOLEAN",
+            "FACE"
+          ],
+          [
+            "position",
+            "FLOAT_VECTOR",
+            "POINT"
+          ],
+          [
+            ".edge_verts",
+            "INT32_2D",
+            "EDGE"
+          ],
+          [
+            ".corner_vert",
+            "INT",
+            "CORNER"
+          ],
+          [
+            ".corner_edge",
+            "INT",
+            "CORNER"
+          ],
+          [
+            "colorSet1",
+            "BYTE_COLOR",
+            "CORNER"
+          ],
+          [
+            "custom_normal",
+            "INT16_2D",
+            "CORNER"
+          ],
+          [
+            "map1",
+            "FLOAT2",
+            "CORNER"
+          ]
+        ],
+        "materials": [
+          {
+            "name": "Mat_Standard",
+            "nodes": [
+              [
+                "Principled BSDF",
+                "BSDF_PRINCIPLED"
+              ],
+              [
+                "Normal Map",
+                "NORMAL_MAP"
+              ],
+              [
+                "Material Output",
+                "OUTPUT_MATERIAL"
+              ],
+              [
+                "Vertex Color",
+                "VERTEX_COLOR"
+              ]
+            ],
+            "links": [
+              [
+                "Principled BSDF",
+                "BSDF",
+                "Material Output",
+                "Surface"
+              ],
+              [
+                "Normal Map",
+                "Normal",
+                "Principled BSDF",
+                "Normal"
+              ],
+              [
+                "Vertex Color",
+                "Color",
+                "Principled BSDF",
+                "Base Color"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Elephant",
+    "bounds": [
+      [
+        -1.099438190460205,
+        1.099438190460205
+      ],
+      [
+        -2.3770198822021484,
+        2.3507068157196045
+      ],
+      [
+        -1.0135980943459799e-07,
+        3.293333053588867
+      ]
+    ],
+    "meshes": [
+      {
+        "name": "base.058",
+        "rotation": [
+          0.0,
+          -0.0,
+          0.0
+        ],
+        "matrix": [
+          [
+            0.009999999776482582,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292067694934076e-09,
+            -0.009999999776482582,
+            0.0
+          ],
+          [
+            0.0,
+            0.009999999776482582,
+            -1.6292067694934076e-09,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "attributes": [
+          [
+            ".select_vert",
+            "BOOLEAN",
+            "POINT"
+          ],
+          [
+            ".select_edge",
+            "BOOLEAN",
+            "EDGE"
+          ],
+          [
+            ".select_poly",
+            "BOOLEAN",
+            "FACE"
+          ],
+          [
+            "position",
+            "FLOAT_VECTOR",
+            "POINT"
+          ],
+          [
+            ".edge_verts",
+            "INT32_2D",
+            "EDGE"
+          ],
+          [
+            ".corner_vert",
+            "INT",
+            "CORNER"
+          ],
+          [
+            ".corner_edge",
+            "INT",
+            "CORNER"
+          ],
+          [
+            "colorSet1",
+            "BYTE_COLOR",
+            "CORNER"
+          ],
+          [
+            "VCP_Layer",
+            "BYTE_COLOR",
+            "CORNER"
+          ],
+          [
+            "VCP_MasterComp",
+            "BYTE_COLOR",
+            "CORNER"
+          ],
+          [
+            "custom_normal",
+            "INT16_2D",
+            "CORNER"
+          ],
+          [
+            "map1",
+            "FLOAT2",
+            "CORNER"
+          ]
+        ],
+        "materials": [
+          {
+            "name": "Mat_Standard",
+            "nodes": [
+              [
+                "Principled BSDF",
+                "BSDF_PRINCIPLED"
+              ],
+              [
+                "Normal Map",
+                "NORMAL_MAP"
+              ],
+              [
+                "Material Output",
+                "OUTPUT_MATERIAL"
+              ],
+              [
+                "Vertex Color",
+                "VERTEX_COLOR"
+              ]
+            ],
+            "links": [
+              [
+                "Principled BSDF",
+                "BSDF",
+                "Material Output",
+                "Surface"
+              ],
+              [
+                "Normal Map",
+                "Normal",
+                "Principled BSDF",
+                "Normal"
+              ],
+              [
+                "Vertex Color",
+                "Color",
+                "Principled BSDF",
+                "Base Color"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tortoise",
+    "bounds": [
+      [
+        -0.4214881658554077,
+        0.4214881658554077
+      ],
+      [
+        -0.6229190230369568,
+        0.6436266899108887
+      ],
+      [
+        -0.008651956915855408,
+        0.6895559430122375
+      ]
+    ],
+    "meshes": [
+      {
+        "name": "base.123",
+        "rotation": [
+          0.0,
+          -0.0,
+          0.0
+        ],
+        "matrix": [
+          [
+            0.009999999776482582,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292067694934076e-09,
+            -0.009999999776482582,
+            0.0
+          ],
+          [
+            0.0,
+            0.009999999776482582,
+            -1.6292067694934076e-09,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "attributes": [
+          [
+            ".select_vert",
+            "BOOLEAN",
+            "POINT"
+          ],
+          [
+            ".select_edge",
+            "BOOLEAN",
+            "EDGE"
+          ],
+          [
+            ".select_poly",
+            "BOOLEAN",
+            "FACE"
+          ],
+          [
+            "sharp_edge",
+            "BOOLEAN",
+            "EDGE"
+          ],
+          [
+            "position",
+            "FLOAT_VECTOR",
+            "POINT"
+          ],
+          [
+            ".edge_verts",
+            "INT32_2D",
+            "EDGE"
+          ],
+          [
+            ".corner_vert",
+            "INT",
+            "CORNER"
+          ],
+          [
+            ".corner_edge",
+            "INT",
+            "CORNER"
+          ],
+          [
+            "colorSet1",
+            "BYTE_COLOR",
+            "CORNER"
+          ],
+          [
+            "custom_normal",
+            "INT16_2D",
+            "CORNER"
+          ],
+          [
+            "map1",
+            "FLOAT2",
+            "CORNER"
+          ]
+        ],
+        "materials": [
+          {
+            "name": "Mat_Standard",
+            "nodes": [
+              [
+                "Principled BSDF",
+                "BSDF_PRINCIPLED"
+              ],
+              [
+                "Normal Map",
+                "NORMAL_MAP"
+              ],
+              [
+                "Material Output",
+                "OUTPUT_MATERIAL"
+              ],
+              [
+                "Vertex Color",
+                "VERTEX_COLOR"
+              ]
+            ],
+            "links": [
+              [
+                "Principled BSDF",
+                "BSDF",
+                "Material Output",
+                "Surface"
+              ],
+              [
+                "Normal Map",
+                "Normal",
+                "Principled BSDF",
+                "Normal"
+              ],
+              [
+                "Vertex Color",
+                "Color",
+                "Principled BSDF",
+                "Base Color"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Chimpanzee",
+    "bounds": [
+      [
+        -0.2732117772102356,
+        0.2732117772102356
+      ],
+      [
+        -0.6028671860694885,
+        0.29480504989624023
+      ],
+      [
+        -0.00028759046108461916,
+        0.9200906157493591
+      ]
+    ],
+    "meshes": [
+      {
+        "name": "base.038",
+        "rotation": [
+          0.0,
+          -0.0,
+          0.0
+        ],
+        "matrix": [
+          [
+            0.009999999776482582,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            -1.6292067694934076e-09,
+            -0.009999999776482582,
+            0.0
+          ],
+          [
+            0.0,
+            0.009999999776482582,
+            -1.6292067694934076e-09,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "attributes": [
+          [
+            ".select_vert",
+            "BOOLEAN",
+            "POINT"
+          ],
+          [
+            ".select_edge",
+            "BOOLEAN",
+            "EDGE"
+          ],
+          [
+            ".select_poly",
+            "BOOLEAN",
+            "FACE"
+          ],
+          [
+            "position",
+            "FLOAT_VECTOR",
+            "POINT"
+          ],
+          [
+            ".edge_verts",
+            "INT32_2D",
+            "EDGE"
+          ],
+          [
+            ".corner_vert",
+            "INT",
+            "CORNER"
+          ],
+          [
+            ".corner_edge",
+            "INT",
+            "CORNER"
+          ],
+          [
+            "colorSet1",
+            "BYTE_COLOR",
+            "CORNER"
+          ],
+          [
+            "custom_normal",
+            "INT16_2D",
+            "CORNER"
+          ],
+          [
+            "map1",
+            "FLOAT2",
+            "CORNER"
+          ]
+        ],
+        "materials": [
+          {
+            "name": "Mat_Standard",
+            "nodes": [
+              [
+                "Principled BSDF",
+                "BSDF_PRINCIPLED"
+              ],
+              [
+                "Normal Map",
+                "NORMAL_MAP"
+              ],
+              [
+                "Material Output",
+                "OUTPUT_MATERIAL"
+              ],
+              [
+                "Vertex Color",
+                "VERTEX_COLOR"
+              ]
+            ],
+            "links": [
+              [
+                "Principled BSDF",
+                "BSDF",
+                "Material Output",
+                "Surface"
+              ],
+              [
+                "Normal Map",
+                "Normal",
+                "Principled BSDF",
+                "Normal"
+              ],
+              [
+                "Vertex Color",
+                "Color",
+                "Principled BSDF",
+                "Base Color"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

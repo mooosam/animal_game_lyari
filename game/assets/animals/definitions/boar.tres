@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/boar.glb" id="1_iyxlf"]
+[ext_resource type="Texture2D" path="res://assets/animals/boar.png" id="2_a127x"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_li22m"]
+
+[resource]
+script = ExtResource("3_li22m")
+id = "boar"
+title = "Wild Boar"
+ability = "smash"
+symbol = "◆"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_iyxlf")
+portrait = ExtResource("2_a127x")
+family = "heavy"
+cycle_seconds = 1.2790697674418603
+model_height = 1.469137
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "trot", "jump", "land", "charge", "head_swing", "eat", "root_dig", "turn", "tusks_attack")

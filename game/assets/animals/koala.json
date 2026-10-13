@@ -1,0 +1,43 @@
+{
+  "id": "koala",
+  "title": "Koala",
+  "source": "KoalaBear",
+  "family": "climber",
+  "ability": "climb",
+  "period": 1.2666666666666666,
+  "height": 1.4518182277679443,
+  "size": 2.0,
+  "model_scale": 1.15,
+  "clips": [
+    "idle",
+    "walk",
+    "run",
+    "turn_left",
+    "turn_right",
+    "stop",
+    "interact",
+    "hit_reaction",
+    "ability",
+    "celebrate",
+    "trot",
+    "jump",
+    "land",
+    "climb",
+    "descend",
+    "balance",
+    "eat",
+    "run_bound",
+    "tree_climb",
+    "branch_walk",
+    "sit"
+  ],
+  "textures": [
+    "koala_0_albedo.png",
+    "koala_0_normal.png",
+    "koala_0_ao.png",
+    "koala_0_roughness.png"
+  ],
+  "bones": 23,
+  "vertices": 717,
+  "forward": "-Y Blender / -Z Godot after model rotation PI"
+}

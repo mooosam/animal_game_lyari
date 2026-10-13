@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/sloth.glb" id="1_1vuma"]
+[ext_resource type="Texture2D" path="res://assets/animals/sloth.png" id="2_1s6xp"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_3xpvy"]
+
+[resource]
+script = ExtResource("3_3xpvy")
+id = "sloth"
+title = "Sloth"
+ability = "climb"
+symbol = "↟"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_1vuma")
+portrait = ExtResource("2_1s6xp")
+family = "sloth"
+cycle_seconds = 6.25
+model_height = 1.2845517
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "hang", "climb", "reach", "branch_transfer", "sleep", "idle_hang", "slow_climb", "turn", "ground_crawl")

@@ -1,0 +1,41 @@
+{
+  "id": "penguin",
+  "title": "Penguin",
+  "source": "Penguin",
+  "family": "penguin",
+  "ability": "swim",
+  "period": 1.125,
+  "height": 1.9999998807907104,
+  "size": 2.0,
+  "model_scale": 1.15,
+  "clips": [
+    "idle",
+    "walk",
+    "run",
+    "turn_left",
+    "turn_right",
+    "stop",
+    "interact",
+    "hit_reaction",
+    "ability",
+    "celebrate",
+    "jump",
+    "land",
+    "waddle",
+    "fast_waddle",
+    "belly_slide",
+    "swim",
+    "dive",
+    "flipper_shake",
+    "surface"
+  ],
+  "textures": [
+    "penguin_0_albedo.png",
+    "penguin_0_normal.png",
+    "penguin_0_ao.png",
+    "penguin_0_roughness.png"
+  ],
+  "bones": 17,
+  "vertices": 418,
+  "forward": "-Y Blender / -Z Godot after model rotation PI"
+}

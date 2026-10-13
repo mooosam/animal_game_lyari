@@ -1,0 +1,41 @@
+{
+  "id": "red_panda",
+  "title": "Red Panda",
+  "source": "RedPanda",
+  "family": "climber",
+  "ability": "climb",
+  "period": 1.0,
+  "height": 0.908257007598877,
+  "size": 2.2,
+  "model_scale": 1.15,
+  "clips": [
+    "idle",
+    "walk",
+    "run",
+    "turn_left",
+    "turn_right",
+    "stop",
+    "interact",
+    "hit_reaction",
+    "ability",
+    "celebrate",
+    "trot",
+    "jump",
+    "land",
+    "climb",
+    "descend",
+    "balance",
+    "eat",
+    "bound",
+    "head_first_descend"
+  ],
+  "textures": [
+    "red_panda_0_albedo.png",
+    "red_panda_0_normal.png",
+    "red_panda_0_ao.png",
+    "red_panda_0_roughness.png"
+  ],
+  "bones": 23,
+  "vertices": 698,
+  "forward": "-Y Blender / -Z Godot after model rotation PI"
+}

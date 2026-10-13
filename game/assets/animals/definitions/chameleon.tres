@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/chameleon.glb" id="1_avyg8"]
+[ext_resource type="Texture2D" path="res://assets/animals/chameleon.png" id="2_bysgt"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_700vh"]
+
+[resource]
+script = ExtResource("3_700vh")
+id = "chameleon"
+title = "Chameleon"
+ability = "climb"
+symbol = "↟"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_avyg8")
+portrait = ExtResource("2_bysgt")
+family = "reptile"
+cycle_seconds = 2.604166666666667
+model_height = 0.997062
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "trot", "low_walk", "high_walk", "swim", "dive", "tail_whip", "reach", "tail_coil", "tail_uncoil", "tongue_strike", "slow_branch_walk", "climb", "turn")

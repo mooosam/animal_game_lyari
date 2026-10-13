@@ -1,0 +1,42 @@
+{
+  "id": "snow_leopard",
+  "title": "Snow Leopard",
+  "source": "SnowLeopard",
+  "family": "feline",
+  "ability": "climb",
+  "period": 0.7,
+  "height": 1.2567031383514404,
+  "size": 2.6,
+  "model_scale": 1.15,
+  "clips": [
+    "idle",
+    "walk",
+    "run",
+    "turn_left",
+    "turn_right",
+    "stop",
+    "interact",
+    "hit_reaction",
+    "ability",
+    "celebrate",
+    "trot",
+    "jump",
+    "land",
+    "sprint",
+    "stalk",
+    "leap",
+    "roar",
+    "rock_climb",
+    "balance",
+    "attack"
+  ],
+  "textures": [
+    "snow_leopard_0_albedo.png",
+    "snow_leopard_0_normal.png",
+    "snow_leopard_0_ao.png",
+    "snow_leopard_0_roughness.png"
+  ],
+  "bones": 23,
+  "vertices": 735,
+  "forward": "-Y Blender / -Z Godot after model rotation PI"
+}

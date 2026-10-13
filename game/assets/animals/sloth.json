@@ -1,0 +1,41 @@
+{
+  "id": "sloth",
+  "title": "Sloth",
+  "source": "Sloth",
+  "family": "sloth",
+  "ability": "climb",
+  "period": 6.25,
+  "height": 1.284551739692688,
+  "size": 2.0,
+  "model_scale": 1.15,
+  "clips": [
+    "idle",
+    "walk",
+    "run",
+    "turn_left",
+    "turn_right",
+    "stop",
+    "interact",
+    "hit_reaction",
+    "ability",
+    "celebrate",
+    "hang",
+    "climb",
+    "reach",
+    "branch_transfer",
+    "sleep",
+    "idle_hang",
+    "slow_climb",
+    "turn",
+    "ground_crawl"
+  ],
+  "textures": [
+    "sloth_0_albedo.png",
+    "sloth_0_normal.png",
+    "sloth_0_ao.png",
+    "sloth_0_roughness.png"
+  ],
+  "bones": 19,
+  "vertices": 694,
+  "forward": "-Y Blender / -Z Godot after model rotation PI"
+}

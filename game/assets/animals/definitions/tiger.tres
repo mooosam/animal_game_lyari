@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/tiger.glb" id="1_y5a8q"]
+[ext_resource type="Texture2D" path="res://assets/animals/tiger.png" id="2_5x0bq"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_2vwal"]
+
+[resource]
+script = ExtResource("3_2vwal")
+id = "tiger"
+title = "Tiger"
+ability = "jump"
+symbol = "∩"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_y5a8q")
+portrait = ExtResource("2_5x0bq")
+family = "feline"
+cycle_seconds = 0.673076923076923
+model_height = 1.8077661
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "trot", "jump", "land", "sprint", "stalk", "leap", "roar", "swim", "swipe", "bite")

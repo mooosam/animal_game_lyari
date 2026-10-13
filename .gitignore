@@ -1,0 +1,9 @@
+game/.godot/
+tools/android/
+tools/media_deps/
+tools/reference_frames/
+tools/screenshots/*.avi
+tools/*.log
+tools/prepared_animals/*.blend1
+tools/prepared_library_animals/*.blend1
+builds/

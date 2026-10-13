@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/lion.glb" id="1_rsbcv"]
+[ext_resource type="Texture2D" path="res://assets/animals/lion.png" id="2_no4nd"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_wrg75"]
+
+[resource]
+script = ExtResource("3_wrg75")
+id = "lion"
+title = "Lion"
+ability = "jump"
+symbol = "∩"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_rsbcv")
+portrait = ExtResource("2_no4nd")
+family = "feline"
+cycle_seconds = 0.7
+model_height = 1.8180453
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "trot", "jump", "land", "sprint", "stalk", "leap", "roar", "gallop", "swipe", "bite")

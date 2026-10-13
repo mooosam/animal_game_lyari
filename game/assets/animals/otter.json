@@ -1,0 +1,42 @@
+{
+  "id": "otter",
+  "title": "Otter",
+  "source": "Otter",
+  "family": "otter",
+  "ability": "swim",
+  "period": 0.6666666666666666,
+  "height": 0.7706601619720459,
+  "size": 2.3,
+  "model_scale": 1.25,
+  "clips": [
+    "idle",
+    "walk",
+    "run",
+    "turn_left",
+    "turn_right",
+    "stop",
+    "interact",
+    "hit_reaction",
+    "ability",
+    "celebrate",
+    "trot",
+    "jump",
+    "land",
+    "bound",
+    "slide",
+    "swim",
+    "dive",
+    "surface",
+    "roll",
+    "bite"
+  ],
+  "textures": [
+    "otter_0_albedo.png",
+    "otter_0_normal.png",
+    "otter_0_ao.png",
+    "otter_0_roughness.png"
+  ],
+  "bones": 23,
+  "vertices": 493,
+  "forward": "-Y Blender / -Z Godot after model rotation PI"
+}

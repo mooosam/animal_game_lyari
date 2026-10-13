@@ -1,0 +1,41 @@
+{
+  "id": "boar",
+  "title": "Wild Boar",
+  "source": "Boar",
+  "family": "heavy",
+  "ability": "smash",
+  "period": 1.2790697674418605,
+  "height": 1.4691369533538818,
+  "size": 2.4,
+  "model_scale": 1.15,
+  "clips": [
+    "idle",
+    "walk",
+    "run",
+    "turn_left",
+    "turn_right",
+    "stop",
+    "interact",
+    "hit_reaction",
+    "ability",
+    "celebrate",
+    "trot",
+    "jump",
+    "land",
+    "charge",
+    "head_swing",
+    "eat",
+    "root_dig",
+    "turn",
+    "tusks_attack"
+  ],
+  "textures": [
+    "boar_0_albedo.png",
+    "boar_0_normal.png",
+    "boar_0_ao.png",
+    "boar_0_roughness.png"
+  ],
+  "bones": 23,
+  "vertices": 535,
+  "forward": "-Y Blender / -Z Godot after model rotation PI"
+}

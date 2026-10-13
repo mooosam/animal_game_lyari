@@ -1,0 +1,39 @@
+{
+  "id": "giraffe",
+  "title": "Giraffe",
+  "source": "Giraffe",
+  "family": "giraffe",
+  "ability": "reach",
+  "period": 1.8571428571428574,
+  "height": 3.799999952316284,
+  "size": 3.8,
+  "model_scale": 1.15,
+  "clips": [
+    "idle",
+    "walk",
+    "run",
+    "turn_left",
+    "turn_right",
+    "stop",
+    "interact",
+    "hit_reaction",
+    "ability",
+    "celebrate",
+    "trot",
+    "pace",
+    "eat_high",
+    "drink",
+    "gallop",
+    "turn",
+    "kick"
+  ],
+  "textures": [
+    "giraffe_0_albedo.png",
+    "giraffe_0_normal.png",
+    "giraffe_0_ao.png",
+    "giraffe_0_roughness.png"
+  ],
+  "bones": 23,
+  "vertices": 621,
+  "forward": "-Y Blender / -Z Godot after model rotation PI"
+}

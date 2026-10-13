@@ -1,0 +1,40 @@
+{
+  "id": "camel",
+  "title": "Camel",
+  "source": "Camel",
+  "family": "camelid",
+  "ability": "jump",
+  "period": 1.4102564102564104,
+  "height": 2.532595634460449,
+  "size": 3.2,
+  "model_scale": 1.15,
+  "clips": [
+    "idle",
+    "walk",
+    "run",
+    "turn_left",
+    "turn_right",
+    "stop",
+    "interact",
+    "hit_reaction",
+    "ability",
+    "celebrate",
+    "trot",
+    "jump",
+    "land",
+    "pace",
+    "kneel",
+    "stand_up",
+    "eat",
+    "kick"
+  ],
+  "textures": [
+    "camel_0_albedo.png",
+    "camel_0_normal.png",
+    "camel_0_ao.png",
+    "camel_0_roughness.png"
+  ],
+  "bones": 23,
+  "vertices": 688,
+  "forward": "-Y Blender / -Z Godot after model rotation PI"
+}

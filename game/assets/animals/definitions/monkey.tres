@@ -1,0 +1,21 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/monkey.glb" id="1_yguw2"]
+[ext_resource type="Texture2D" path="res://assets/animals/monkey.png" id="2_wsoev"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_jhui7"]
+
+[resource]
+script = ExtResource("3_jhui7")
+id = "monkey"
+title = "Chimpanzee"
+ability = "climb"
+symbol = "↟"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_yguw2")
+portrait = ExtResource("2_wsoev")
+run_multiplier = 1.16
+family = "ape"
+model_scale = 1.1
+cycle_seconds = 0.9
+model_height = 2.3
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "trot", "jump", "land", "knuckle_walk", "climb", "reach", "hang", "sit", "grab", "brachiation_reach", "attack")

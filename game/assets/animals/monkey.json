@@ -1,0 +1,43 @@
+{
+  "id": "monkey",
+  "title": "Chimpanzee",
+  "source": "Chimpanzee",
+  "family": "ape",
+  "ability": "climb",
+  "period": 0.9,
+  "height": 2.299999952316284,
+  "size": 2.3,
+  "model_scale": 1.1,
+  "clips": [
+    "idle",
+    "walk",
+    "run",
+    "turn_left",
+    "turn_right",
+    "stop",
+    "interact",
+    "hit_reaction",
+    "ability",
+    "celebrate",
+    "trot",
+    "jump",
+    "land",
+    "knuckle_walk",
+    "climb",
+    "reach",
+    "hang",
+    "sit",
+    "grab",
+    "brachiation_reach",
+    "attack"
+  ],
+  "textures": [
+    "monkey_0_albedo.png",
+    "monkey_0_normal.png",
+    "monkey_0_ao.png",
+    "monkey_0_roughness.png"
+  ],
+  "bones": 19,
+  "vertices": 662,
+  "forward": "-Y Blender / -Z Godot after model rotation PI"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "hedgehog",
+  "title": "Hedgehog",
+  "source": "Hedgehog",
+  "family": "armor",
+  "ability": "shield",
+  "period": 2.903225806451613,
+  "height": 0.8588379621505737,
+  "size": 1.8,
+  "model_scale": 1.15,
+  "clips": [
+    "idle",
+    "walk",
+    "run",
+    "turn_left",
+    "turn_right",
+    "stop",
+    "interact",
+    "hit_reaction",
+    "ability",
+    "celebrate",
+    "slow_walk",
+    "retract",
+    "emerge",
+    "defend",
+    "eat",
+    "curl",
+    "uncurl",
+    "sniff",
+    "dig",
+    "curl_into_ball"
+  ],
+  "textures": [
+    "hedgehog_0_albedo.png",
+    "hedgehog_0_normal.png",
+    "hedgehog_0_ao.png",
+    "hedgehog_0_roughness.png"
+  ],
+  "bones": 23,
+  "vertices": 544,
+  "forward": "-Y Blender / -Z Godot after model rotation PI"
+}

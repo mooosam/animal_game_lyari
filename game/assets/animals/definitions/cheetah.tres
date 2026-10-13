@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/cheetah.glb" id="1_yiblq"]
+[ext_resource type="Texture2D" path="res://assets/animals/cheetah.png" id="2_h82m4"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_avqam"]
+
+[resource]
+script = ExtResource("3_avqam")
+id = "cheetah"
+title = "Cheetah"
+ability = "jump"
+symbol = "∩"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_yiblq")
+portrait = ExtResource("2_h82m4")
+family = "feline"
+cycle_seconds = 0.48275862068965514
+model_height = 1.6848798
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "trot", "jump", "land", "sprint", "stalk", "leap", "roar", "attack")

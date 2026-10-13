@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/hedgehog.glb" id="1_rmmbo"]
+[ext_resource type="Texture2D" path="res://assets/animals/hedgehog.png" id="2_2mc0n"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_45l8u"]
+
+[resource]
+script = ExtResource("3_45l8u")
+id = "hedgehog"
+title = "Hedgehog"
+ability = "shield"
+symbol = "⬟"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_rmmbo")
+portrait = ExtResource("2_2mc0n")
+family = "armor"
+cycle_seconds = 2.903225806451613
+model_height = 0.85883796
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "slow_walk", "retract", "emerge", "defend", "eat", "curl", "uncurl", "sniff", "dig", "curl_into_ball")

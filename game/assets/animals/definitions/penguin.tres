@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/penguin.glb" id="1_ljrdy"]
+[ext_resource type="Texture2D" path="res://assets/animals/penguin.png" id="2_1av0f"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_bl5rx"]
+
+[resource]
+script = ExtResource("3_bl5rx")
+id = "penguin"
+title = "Penguin"
+ability = "swim"
+symbol = "≈"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_ljrdy")
+portrait = ExtResource("2_1av0f")
+family = "penguin"
+cycle_seconds = 1.125
+model_height = 1.9999999
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "jump", "land", "waddle", "fast_waddle", "belly_slide", "swim", "dive", "flipper_shake", "surface")

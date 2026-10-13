@@ -1,0 +1,21 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/otter.glb" id="1_myr1q"]
+[ext_resource type="Texture2D" path="res://assets/animals/otter.png" id="2_q86xq"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_kfjua"]
+
+[resource]
+script = ExtResource("3_kfjua")
+id = "otter"
+title = "Otter"
+ability = "swim"
+symbol = "≈"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_myr1q")
+portrait = ExtResource("2_q86xq")
+run_multiplier = 1.02
+family = "otter"
+model_scale = 1.25
+cycle_seconds = 0.6666666666666666
+model_height = 0.77066016
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "trot", "jump", "land", "bound", "slide", "swim", "dive", "surface", "roll", "bite")

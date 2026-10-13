@@ -1,0 +1,18 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/red_panda.glb" id="1_trjlj"]
+[ext_resource type="Texture2D" path="res://assets/animals/red_panda.png" id="2_xd30q"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_bv6et"]
+
+[resource]
+script = ExtResource("3_bv6et")
+id = "red_panda"
+title = "Red Panda"
+ability = "climb"
+symbol = "↟"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_trjlj")
+portrait = ExtResource("2_xd30q")
+family = "climber"
+model_height = 0.908257
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "trot", "jump", "land", "climb", "descend", "balance", "eat", "bound", "head_first_descend")

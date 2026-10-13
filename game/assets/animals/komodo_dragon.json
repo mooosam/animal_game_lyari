@@ -1,0 +1,43 @@
+{
+  "id": "komodo_dragon",
+  "title": "Komodo Dragon",
+  "source": "KomodoDragon",
+  "family": "reptile",
+  "ability": "swim",
+  "period": 1.6025641025641024,
+  "height": 0.4104916751384735,
+  "size": 2.8,
+  "model_scale": 1.15,
+  "clips": [
+    "idle",
+    "walk",
+    "run",
+    "turn_left",
+    "turn_right",
+    "stop",
+    "interact",
+    "hit_reaction",
+    "ability",
+    "celebrate",
+    "trot",
+    "low_walk",
+    "high_walk",
+    "swim",
+    "dive",
+    "tail_whip",
+    "surface",
+    "sprawling_walk",
+    "fast_walk_run",
+    "turn",
+    "bite"
+  ],
+  "textures": [
+    "komodo_dragon_0_albedo.png",
+    "komodo_dragon_0_normal.png",
+    "komodo_dragon_0_ao.png",
+    "komodo_dragon_0_roughness.png"
+  ],
+  "bones": 23,
+  "vertices": 576,
+  "forward": "-Y Blender / -Z Godot after model rotation PI"
+}

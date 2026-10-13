@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/giraffe.glb" id="1_rywrf"]
+[ext_resource type="Texture2D" path="res://assets/animals/giraffe.png" id="2_sqjrf"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_b1d03"]
+
+[resource]
+script = ExtResource("3_b1d03")
+id = "giraffe"
+title = "Giraffe"
+ability = "reach"
+symbol = "↥"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_rywrf")
+portrait = ExtResource("2_sqjrf")
+family = "giraffe"
+cycle_seconds = 1.8571428571428577
+model_height = 3.8
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "trot", "pace", "eat_high", "drink", "gallop", "turn", "kick")

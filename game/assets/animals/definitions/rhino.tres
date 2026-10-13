@@ -1,0 +1,21 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/rhino.glb" id="1_5l3eh"]
+[ext_resource type="Texture2D" path="res://assets/animals/rhino.png" id="2_d1juv"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_5gucj"]
+
+[resource]
+script = ExtResource("3_5gucj")
+id = "rhino"
+title = "Rhino"
+ability = "smash"
+symbol = "◆"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_5l3eh")
+portrait = ExtResource("2_d1juv")
+run_multiplier = 0.9
+family = "heavy"
+model_scale = 1.4
+cycle_seconds = 1.3414634146341464
+model_height = 1.5886756
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "trot", "charge", "head_swing", "eat", "turn", "horn_attack")

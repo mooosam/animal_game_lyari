@@ -1,0 +1,39 @@
+{
+  "id": "goat",
+  "title": "Goat",
+  "source": "Goat",
+  "family": "hoof",
+  "ability": "climb",
+  "period": 0.88,
+  "height": 1.9758704900741577,
+  "size": 2.4,
+  "model_scale": 1.15,
+  "clips": [
+    "idle",
+    "walk",
+    "run",
+    "turn_left",
+    "turn_right",
+    "stop",
+    "interact",
+    "hit_reaction",
+    "ability",
+    "celebrate",
+    "trot",
+    "jump",
+    "land",
+    "climb",
+    "graze",
+    "head_butt",
+    "rear"
+  ],
+  "textures": [
+    "goat_0_albedo.png",
+    "goat_0_normal.png",
+    "goat_0_ao.png",
+    "goat_0_roughness.png"
+  ],
+  "bones": 23,
+  "vertices": 586,
+  "forward": "-Y Blender / -Z Godot after model rotation PI"
+}

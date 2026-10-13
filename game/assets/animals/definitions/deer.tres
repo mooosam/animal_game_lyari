@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/deer.glb" id="1_7muua"]
+[ext_resource type="Texture2D" path="res://assets/animals/deer.png" id="2_ofb2k"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_ih2r3"]
+
+[resource]
+script = ExtResource("3_ih2r3")
+id = "deer"
+title = "Deer"
+ability = "jump"
+symbol = "∩"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_7muua")
+portrait = ExtResource("2_ofb2k")
+family = "hoof"
+cycle_seconds = 0.8148148148148148
+model_height = 2.8000002
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "trot", "jump", "land", "climb", "graze", "head_butt", "bound", "alert", "kick")

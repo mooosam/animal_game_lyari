@@ -1,0 +1,40 @@
+{
+  "id": "cheetah",
+  "title": "Cheetah",
+  "source": "Cheetah",
+  "family": "feline",
+  "ability": "jump",
+  "period": 0.48275862068965514,
+  "height": 1.6848797798156738,
+  "size": 2.8,
+  "model_scale": 1.15,
+  "clips": [
+    "idle",
+    "walk",
+    "run",
+    "turn_left",
+    "turn_right",
+    "stop",
+    "interact",
+    "hit_reaction",
+    "ability",
+    "celebrate",
+    "trot",
+    "jump",
+    "land",
+    "sprint",
+    "stalk",
+    "leap",
+    "roar",
+    "attack"
+  ],
+  "textures": [
+    "cheetah_0_albedo.png",
+    "cheetah_0_normal.png",
+    "cheetah_0_ao.png",
+    "cheetah_0_roughness.png"
+  ],
+  "bones": 23,
+  "vertices": 671,
+  "forward": "-Y Blender / -Z Godot after model rotation PI"
+}

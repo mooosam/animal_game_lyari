@@ -1,0 +1,43 @@
+{
+  "id": "zebra",
+  "title": "Zebra",
+  "source": "Zebra",
+  "family": "hoof",
+  "ability": "jump",
+  "period": 0.8380952380952381,
+  "height": 2.431500196456909,
+  "size": 3.0,
+  "model_scale": 1.15,
+  "clips": [
+    "idle",
+    "walk",
+    "run",
+    "turn_left",
+    "turn_right",
+    "stop",
+    "interact",
+    "hit_reaction",
+    "ability",
+    "celebrate",
+    "trot",
+    "jump",
+    "land",
+    "climb",
+    "graze",
+    "head_butt",
+    "canter",
+    "gallop",
+    "turn",
+    "kick",
+    "rear"
+  ],
+  "textures": [
+    "zebra_0_albedo.png",
+    "zebra_0_normal.png",
+    "zebra_0_ao.png",
+    "zebra_0_roughness.png"
+  ],
+  "bones": 23,
+  "vertices": 818,
+  "forward": "-Y Blender / -Z Godot after model rotation PI"
+}

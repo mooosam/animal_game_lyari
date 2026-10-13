@@ -1,0 +1,21 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/turtle.glb" id="1_xw8kk"]
+[ext_resource type="Texture2D" path="res://assets/animals/turtle.png" id="2_4ixgv"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_elysj"]
+
+[resource]
+script = ExtResource("3_elysj")
+id = "turtle"
+title = "Tortoise"
+ability = "shield"
+symbol = "⬟"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_xw8kk")
+portrait = ExtResource("2_4ixgv")
+run_multiplier = 0.78
+family = "armor"
+model_scale = 1.25
+cycle_seconds = 3.0
+model_height = 1.1025388
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "slow_walk", "retract", "emerge", "defend", "eat", "turn", "step_up", "retract_head")

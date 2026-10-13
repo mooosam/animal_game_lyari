@@ -1,0 +1,41 @@
+{
+  "id": "armadillo",
+  "title": "Armadillo",
+  "source": "Armadillo",
+  "family": "armor",
+  "ability": "shield",
+  "period": 2.6470588235294117,
+  "height": 0.6083495616912842,
+  "size": 2.0,
+  "model_scale": 1.15,
+  "clips": [
+    "idle",
+    "walk",
+    "run",
+    "turn_left",
+    "turn_right",
+    "stop",
+    "interact",
+    "hit_reaction",
+    "ability",
+    "celebrate",
+    "slow_walk",
+    "retract",
+    "emerge",
+    "defend",
+    "eat",
+    "fast_walk",
+    "dig",
+    "turn",
+    "curl_defend"
+  ],
+  "textures": [
+    "armadillo_0_albedo.png",
+    "armadillo_0_normal.png",
+    "armadillo_0_ao.png",
+    "armadillo_0_roughness.png"
+  ],
+  "bones": 23,
+  "vertices": 658,
+  "forward": "-Y Blender / -Z Godot after model rotation PI"
+}

@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/snow_leopard.glb" id="1_0ie6r"]
+[ext_resource type="Texture2D" path="res://assets/animals/snow_leopard.png" id="2_1bpl4"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_x3ryd"]
+
+[resource]
+script = ExtResource("3_x3ryd")
+id = "snow_leopard"
+title = "Snow Leopard"
+ability = "climb"
+symbol = "↟"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_0ie6r")
+portrait = ExtResource("2_1bpl4")
+family = "feline"
+cycle_seconds = 0.7
+model_height = 1.2567031
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "trot", "jump", "land", "sprint", "stalk", "leap", "roar", "rock_climb", "balance", "attack")

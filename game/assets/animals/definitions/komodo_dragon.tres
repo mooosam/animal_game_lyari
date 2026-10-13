@@ -1,0 +1,19 @@
+[gd_resource type="Resource" script_class="AnimalDefinition" format=3]
+
+[ext_resource type="PackedScene" path="res://assets/animals/komodo_dragon.glb" id="1_biufw"]
+[ext_resource type="Texture2D" path="res://assets/animals/komodo_dragon.png" id="2_xr8a5"]
+[ext_resource type="Script" path="res://scripts/animal_definition.gd" id="3_nfvud"]
+
+[resource]
+script = ExtResource("3_nfvud")
+id = "komodo_dragon"
+title = "Komodo Dragon"
+ability = "swim"
+symbol = "≈"
+color = Color(1, 1, 1, 1)
+model = ExtResource("1_biufw")
+portrait = ExtResource("2_xr8a5")
+family = "reptile"
+cycle_seconds = 1.6025641025641024
+model_height = 0.41049168
+clips = PackedStringArray("idle", "walk", "run", "turn_left", "turn_right", "stop", "interact", "hit_reaction", "ability", "celebrate", "trot", "low_walk", "high_walk", "swim", "dive", "tail_whip", "surface", "sprawling_walk", "fast_walk_run", "turn", "bite")

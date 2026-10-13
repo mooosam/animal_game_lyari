@@ -1,0 +1,107 @@
+[
+  {
+    "animal": "rhino",
+    "library_animal": "Rhino",
+    "source": "EverythingLibrary_Animals_002.blend",
+    "bones": 16,
+    "clips": [
+      "idle",
+      "run",
+      "ability",
+      "celebrate"
+    ],
+    "cycle_seconds": 0.8333333333333334,
+    "vertices": 533,
+    "colors": "original colorSet1 baked to sRGB albedo"
+  },
+  {
+    "animal": "owl",
+    "library_animal": "SnowyOwl",
+    "source": "EverythingLibrary_Animals_002.blend",
+    "bones": 7,
+    "clips": [
+      "idle",
+      "run",
+      "ability",
+      "celebrate"
+    ],
+    "cycle_seconds": 0.7333333333333333,
+    "vertices": 538,
+    "colors": "original colorSet1 baked to sRGB albedo"
+  },
+  {
+    "animal": "frog",
+    "library_animal": "GreenFrog",
+    "source": "EverythingLibrary_Animals_002.blend",
+    "bones": 15,
+    "clips": [
+      "idle",
+      "run",
+      "ability",
+      "celebrate"
+    ],
+    "cycle_seconds": 0.7333333333333333,
+    "vertices": 569,
+    "colors": "original colorSet1 baked to sRGB albedo"
+  },
+  {
+    "animal": "otter",
+    "library_animal": "Otter",
+    "source": "EverythingLibrary_Animals_002.blend",
+    "bones": 16,
+    "clips": [
+      "idle",
+      "run",
+      "ability",
+      "celebrate"
+    ],
+    "cycle_seconds": 0.6666666666666666,
+    "vertices": 493,
+    "colors": "original colorSet1 baked to sRGB albedo"
+  },
+  {
+    "animal": "elephant",
+    "library_animal": "Elephant",
+    "source": "EverythingLibrary_Animals_002.blend",
+    "bones": 18,
+    "clips": [
+      "idle",
+      "run",
+      "ability",
+      "celebrate"
+    ],
+    "cycle_seconds": 1.2,
+    "vertices": 568,
+    "colors": "original colorSet1 baked to sRGB albedo"
+  },
+  {
+    "animal": "turtle",
+    "library_animal": "Tortoise",
+    "source": "EverythingLibrary_Animals_002.blend",
+    "bones": 15,
+    "clips": [
+      "idle",
+      "run",
+      "ability",
+      "celebrate"
+    ],
+    "cycle_seconds": 1.4666666666666666,
+    "vertices": 382,
+    "colors": "original colorSet1 baked to sRGB albedo"
+  },
+  {
+    "animal": "monkey",
+    "library_animal": "Chimpanzee",
+    "source": "EverythingLibrary_Animals_002.blend",
+    "bones": 15,
+    "clips": [
+      "idle",
+      "run",
+      "ability",
+      "celebrate"
+    ],
+    "cycle_seconds": 0.7666666666666667,
+    "vertices": 662,
+    "colors": "original colorSet1 baked to sRGB albedo"
+  }
+]
